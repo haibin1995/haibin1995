@@ -1,0 +1,6964 @@
+Key: 👌|9
+Value:
+👌🏻
+
+Key: 不是|9
+Value:
+不是的
+
+Key: 顺义|9
+Value:
+顺义这。
+顺义有
+
+Key: 昌平|9
+Value:
+我在昌平
+昌平区
+
+Key: 包吃住吗？|9
+Value:
+包吃住的
+咱们还包吃包住？
+包吃住？
+包吃住吗
+包吃包住？
+您好，是包吃住吗
+包吃包住吗？
+
+Key: 17周岁|9
+Value:
+17周岁可以吧
+17周岁可以？
+17岁可以么
+17能干吗
+我现在17也可以么
+17可以吗
+17岁能干吗
+
+Key: 你是中介？|9
+Value:
+你是中介
+你是中介呗
+你是中介还是站长？
+您是干什么的中介
+你这是中介？
+你这里是中介吗
+你们是中介嘛
+你是中介对吧
+
+Key: 您好，请问这个职位的底薪多少呢？感觉和我的经历非常匹配，方便的话想进一步聊聊～|8
+Value:
+
+Key: 可以聊聊哈|8
+Value:
+
+Key: 不好意思|8
+Value:
+不好意思哈
+
+Key: 房山|8
+Value:
+房山良乡
+房山长阳
+
+Key: 老板您好，我对这个工作挺感兴趣的|8
+Value:
+老板好，这个岗位我挺感兴趣的
+
+Key: 可以加个微信吗|8
+Value:
+加个微信
+加微信吧
+加微信聊吧
+加个微信呗姐姐
+那加微信说吧。
+
+Key: 底薪多少|8
+Value:
+底薪是多少
+咱这个工作底薪是多少
+工资多少？底薪多少？
+薪资保底吗？
+有底薪么
+
+Key: 单价多少|8
+Value:
+单价多少钱
+你们单价是多少
+单价是多少
+单价是啥
+
+Key: 哦|7
+Value:
+
+Key: 您好，感谢与我联系，目前只考虑兼职，如果有需要我们可以进一步联系。|7
+Value:
+
+Key: 不干|7
+Value:
+
+Key: 我只能兼职工作，您这边考虑吗?|7
+Value:
+
+Key: 您好，请问这个职位薪资是日结吗？|7
+Value:
+
+Key: 暑假工|7
+Value:
+我打算找个暑假工
+暑期工
+暑期工呀
+
+Key: 对呀|7
+Value:
+是呀
+是呗
+
+Key: 看你已读不回这边是担心什么呢？|7
+Value:
+看你已读不回是有什么顾虑吗？
+
+Key: 我17|7
+Value:
+我16
+我16周岁
+都十六岁
+我才17
+我今年16岁
+
+Key: 在老家|7
+Value:
+老家
+在老家呢
+在家呢
+我现在在老家
+在老家呢。
+
+Key: 什么工作|7
+Value:
+干什么工作
+啥工作
+做什么工作的啊
+什么工作？
+做什么的呀
+
+Key: 管吃管住吗|7
+Value:
+管吃住么
+确定管吃管住
+管吃住那种
+管吃吗？
+管吃住吗
+管吃住吗？五险一金呢？
+
+Key: 先看看|7
+Value:
+看看吧
+我看看吧
+先看一下吧
+好好看看
+在看吧
+看吧
+
+Key: 您好，请问这个岗位有包食宿之类的福利待遇吗？|6
+Value:
+
+Key: 需要|6
+Value:
+要
+
+Key: 干不了|6
+Value:
+不行干不了
+
+Key: 兼职行吗|6
+Value:
+兼职行吗，业余时间跑单
+
+Key: 不了谢谢|6
+Value:
+不行，干不了谢谢您
+
+Key: 丰台|6
+Value:
+丰台区
+
+Key: 提供电动车吗|6
+Value:
+提供电动车喝住宿吗
+提供车和住宿吗
+
+Key: 不考虑谢谢|6
+Value:
+不考虑谢谢，不要发信息了
+派遣不考虑谢谢
+
+Key: 有案底|6
+Value:
+有案底行吗
+我有案底可以吗
+
+Key: 干啥|6
+Value:
+这是干啥的
+干啥的
+你干啥的
+没干啥啊
+
+Key: 那算了|6
+Value:
+哈哈那算了吧
+那算了吧
+算了吧
+就这样吧
+
+Key: 通州|6
+Value:
+通州区
+通州有吗
+通州宋庄这边有没有
+通州唐山
+
+Key: 添加表情|5
+Value:
+
+Key: 在的|5
+Value:
+
+Key: 对的|5
+Value:
+
+Key: 这是我的资料，希望有机会加入贵团队，谢谢|5
+Value:
+这是我的资料，希望能够成为贵团队的一员。
+
+Key: 不在|5
+Value:
+不在了
+
+Key: 可以吗|5
+Value:
+在吗
+
+Key: 17|5
+Value:
+16
+
+Key: 岗位暂时不太合适，就不考虑了哈，感谢您的邀请～|5
+Value:
+岗位不合适，暂时不考虑了
+
+Key: 餐饮|5
+Value:
+餐饮店
+餐饮呀
+
+Key: 您好，我这边目前只考虑兼职，您这边招吗|5
+Value:
+您好，我这边目前只考虑兼职，您这边招吗[挥手]
+您这边接受兼职员工吗[挥手]
+
+Key: 抱歉|5
+Value:
+抱歉，抱歉
+抱歉干不了
+
+Key: 不干骑手|5
+Value:
+不想干骑手
+
+Key: 不想做|5
+Value:
+不想干
+不太想干
+不想来
+
+Key: 招人吗|5
+Value:
+还招人吗
+招聘吗
+请问您那还招人吗
+
+Key: 请问是在招骑手吗|5
+Value:
+请问是在招骑手吗？
+你好，请问是在招骑手吗
+你好请问是在招骑手吗
+
+Key: 需要住宿舍|5
+Value:
+需要住宿
+最好是有宿舍
+
+Key: 通州马驹桥|5
+Value:
+在通州马驹桥
+马驹桥
+马驹桥呀
+
+Key: 你好美女|5
+Value:
+你好，美女
+你好张女士
+美女你好
+
+Key: 晚上|5
+Value:
+晚上有时间
+每天晚上八点后有时间
+晚上吧
+
+Key: 哪里|5
+Value:
+在哪
+你在哪
+在哪里啊
+
+Key: 不管吃|5
+Value:
+不管吃住吗
+不管吃不管住的
+有吃住？
+吃住呢
+
+Key: 没有工作|5
+Value:
+没工作
+是，没工作
+是的没有工作
+我没有工作
+
+Key: 咱这边是什么样工作？|5
+Value:
+你这边哪方面的工作啊
+咱们这儿是干什么工作的
+你这边工作内容是干什么的
+你哪里是有什么工作
+
+Key: 我没有满18|5
+Value:
+我未满18
+我不到18呀。
+我没满18
+我还差几个月满18
+
+Key: 方便介绍一下贵公司免费配车快速入职8K配送员的细节性要求吗？|5
+Value:
+想知道你们在招的免费配车快速入职8K配送员工作，有什么具体的要求呢？
+Boss您好，我想进一步了解免费配车快速入职8K配送员这个岗位。
+想知道你们在招的全北京分配送餐员当天提供住宿车辆时间自由工作，有什么具体的要求呢？
+贵司的全北京分配送餐员当天提供住宿车辆时间自由岗位还在招人么？我想自荐一下。我有1年以内经验，掌握等多种技能，有信心胜任这份工作！
+
+Key: 工作地点在哪里呀|5
+Value:
+工作位置在哪
+在哪里工作？
+工作地点在北京哪里
+工作地址在哪里
+
+Key: 行|4
+Value:
+
+Key: 谢谢，我暂时不考虑这个职位，有机会再合作|4
+Value:
+
+Key: 有|4
+Value:
+
+Key: 沙河|4
+Value:
+
+Key: 你好，刚刚查看了贵公司的招聘详情，还希望进一步了解一下。|4
+Value:
+刚看到贵公司的招聘信息，希望能与您有进一步的交流。不知道是否方便？
+
+Key: 外卖不考虑|4
+Value:
+送过外卖所以不考虑
+
+Key: 没事|4
+Value:
+没问题
+
+Key: 。。|4
+Value:
+。
+
+Key: 不方便|4
+Value:
+真不方便
+
+Key: 不好|4
+Value:
+我不好
+
+Key: OK|4
+Value:
+ok
+
+Key: 未成年|4
+Value:
+未成年行吗
+没成年
+
+Key: 3个月|4
+Value:
+5个月
+七个月
+
+Key: 暂时不考虑配送员|4
+Value:
+暂时不想干配送员
+那个我暂时不考虑配送员的岗位
+
+Key: 可以介绍下工作嘛|4
+Value:
+能介绍下工作内容吗？
+什么工作大概介绍一下
+可以介绍嘛
+
+Key: 免费吃住吗？|4
+Value:
+住宿免费吗
+提供的住宿收费吗
+住宿免费提供
+
+Key: 你好，我是任强。希望能和您一起做一番事业！|4
+Value:
+老板打扰一下我是任强。希望能和您一起做一番事业！
+老板你好！高中学历，平时工作中比较踏实肯干。希望能和您一起做一番事业！
+你好，希望能和您一起做一番事业！
+
+Key: 我本人现在在石家庄|4
+Value:
+目前人在石家庄
+还在石家庄
+我在石家庄
+
+Key: 送饭的吗？|4
+Value:
+送餐员是吗
+送餐的？
+送餐
+
+Key: 下午六点|4
+Value:
+下午六点以后
+下午五点半以后
+下午
+
+Key: 您好，我仔细阅读了您发布的这个职位，和我自己比较匹配，希望能与您进一步沟通一下，期待您的回复|3
+Value:
+
+Key: 感谢！稍后我会添加您的微信～|3
+Value:
+
+Key: 可以的|3
+Value:
+
+Key: 刚刚看您发布了这个职位，我很喜欢，如果您觉得合适，请随时联系我，感谢|3
+Value:
+刚刚看了您发布的这个职位，我特别喜欢，可否聊聊呢？
+
+Key: 两个人|3
+Value:
+夫妻两个人
+
+Key: 不想跑外面|3
+Value:
+不想在外面跑来跑去
+
+Key: 一单几块|3
+Value:
+还有一单几块
+
+Key: 行吧|3
+Value:
+去吧
+
+Key: 服务员|3
+Value:
+服务员？
+
+Key: 租车多少钱|3
+Value:
+车的费用是多少钱
+
+Key: 海淀|3
+Value:
+海淀区
+
+Key: 干过|3
+Value:
+干过，
+
+Key: 我兼职|3
+Value:
+我兼职跑跑啊
+
+Key: 哈哈哈|3
+Value:
+哈哈
+
+Key: 你结婚了吗|3
+Value:
+结婚了吧
+
+Key: 大兴|3
+Value:
+大兴区
+
+Key: 啊|3
+Value:
+啊？
+
+Key: 保底八九千？|3
+Value:
+保底8000吗
+保底八千是吗
+
+Key: 还要租电动车|3
+Value:
+还得租车租电池是吗？
+不都得租车和电池吗？
+
+Key: 可以给我发个定位吗？|3
+Value:
+方便发个位置吗？
+方便看看位置吗
+
+Key: 没单|3
+Value:
+没有单
+没单四块
+
+Key: 您这边工作，有社保吗|3
+Value:
+你们那有社保吗？
+有社保吗
+
+Key: 好的好的，麻烦了。|3
+Value:
+好的，麻烦了
+好吧，麻烦了
+
+Key: 我在国贸|3
+Value:
+就在国贸
+国贸
+
+Key: 送餐太危险太赶时间了|3
+Value:
+送餐做不了，时间太紧，我路痴
+送餐的工作时间太紧了
+
+Key: 您好，我想应聘你们的稳定高薪提供车住配送时间自由工作，期盼回复，谢谢！|3
+Value:
+老板您好，我很想跟您聊聊稳定高薪提供车住配送时间自由职位的详细情况，已将我的电话发送给您了，方便的话可以随时电话联系我，盼回复～
+老板您好，我很想跟您聊聊配送员职位的详细情况，已将我的电话发送给您了，方便的话可以随时电话联系我，盼回复～
+
+Key: 北京朝阳双井街|3
+Value:
+朝阳双井
+北京朝阳望京
+
+Key: 您好，主要是配送哪些物品呢？|3
+Value:
+主要是配送什么？
+这边主要配送的是什么
+
+Key: 微信说吧|3
+Value:
+微信聊吧
+您加下我微信谈吧
+
+Key: 早上7：30之前晚上6：00之后有时间|3
+Value:
+晚上九点到早上七点都可以
+我晚上9点到凌晨三点都是可以的
+
+Key: 这个主要工作是什么呢|3
+Value:
+主要是干什么呢
+主要是干什么
+
+Key: 工资怎么结|3
+Value:
+工资怎么结？
+工资是怎么算的
+
+Key: 主要送什么？|3
+Value:
+主要送啥
+主要是送餐，还是送什么
+
+Key: 岁数不够吧|3
+Value:
+年龄不够
+我感觉年龄不够
+
+Key: 哥我是女的|3
+Value:
+我是女的
+我是小姐姐
+
+Key: 日结吗|3
+Value:
+能日结吗
+日结工可以吗
+
+Key: 不要发了|3
+Value:
+别发了
+不要给我发了
+
+Key: 多少钱一单现在|3
+Value:
+多少钱一单？
+多少钱一单
+
+Key: 我现在还没有离职|3
+Value:
+我现在还有工作
+我已经在工作了
+
+Key: 算了吧姐|3
+Value:
+算了
+算了哥
+
+Key: 聋哑人可以吗？|3
+Value:
+我是聋哑人能接受吗？
+招聋哑人吗
+
+Key: 我微信********|3
+Value:
+微信号：*********
+微信************
+
+Key: 你好胡晓冉|3
+Value:
+胡晓冉，你好
+胡晓冉你好
+
+Key: 你好你们是什么岗位|3
+Value:
+你好，具体什么岗位
+您好，您们有什么岗位呢
+
+Key: 住宿多少钱一个月？|3
+Value:
+住宿呢，房租多少
+住宿一个月多少钱
+
+Key: 不好意思现在考虑临时工作|3
+Value:
+不好意思找到工作了
+不好意思。我想找一个供吃住的工作
+
+Key: 晚七点后|3
+Value:
+晚上七点后
+我下午七点以后
+
+Key: 不想做这个，多谢了|3
+Value:
+不太想做这个，谢谢
+不太想做这个，感谢
+
+Key: 我在朝阳区|3
+Value:
+我在北京市顺义杨镇
+我在顺义
+
+Key: 时间不够|3
+Value:
+时间不充裕
+时间不合适
+
+Key: 我在房山|3
+Value:
+我在房山区
+我在房山区青龙湖这边
+
+Key: 送啥|3
+Value:
+送什么
+送什么呀？
+
+Key: 过了五一了|3
+Value:
+过完五一呗
+五一
+
+Key: 周末有时间|3
+Value:
+只有周六周日有时间
+周末都行
+
+Key: 你招聘什么的|3
+Value:
+您那招聘的是什么工作？
+你好招聘什么岗位
+
+Key: 我现在北京，说好了随时可以过去|3
+Value:
+现在没在北京，说好了随时过去
+没在北京，随时可以出发
+
+Key: 我晚上9点下班|3
+Value:
+我晚七点半下班
+我晚上十一点以后才能上班
+
+Key: 我是干厨房的|3
+Value:
+我是厨师
+我是厨师的
+
+Key: 还招外卖员吗|2
+Value:
+
+Key: 可以啊|2
+Value:
+
+Key: 大佬你好，我想应聘这个岗位，可以看下我的在线简历。如果合适的话，期待回复~|2
+Value:
+
+Key: BOSS您好，非常喜欢您的这个岗位，希望与您能够进一步的了解一下。|2
+Value:
+
+Key: 可以占用您一点时间吗，我想了解下这一职位|2
+Value:
+
+Key: 你去干吧|2
+Value:
+
+Key: 你真烦人，别再发了！|2
+Value:
+
+Key: 不知道|2
+Value:
+
+Key: 滚|2
+Value:
+
+Key: 北京|2
+Value:
+
+Key: 奥|2
+Value:
+
+Key: 半年|2
+Value:
+
+Key: 能和您聊聊吗？很想加入贵团队！|2
+Value:
+
+Key: 额|2
+Value:
+
+Key: 就我一个|2
+Value:
+
+Key: 送过|2
+Value:
+
+Key: 今年|2
+Value:
+
+Key: 不想做骑手|2
+Value:
+
+Key: 也行|2
+Value:
+
+Key: 路痴|2
+Value:
+
+Key: 明天|2
+Value:
+
+Key: 超市|2
+Value:
+
+Key: 收银|2
+Value:
+
+Key: 大观园|2
+Value:
+
+Key: 你不是找送餐的嘛|2
+Value:
+
+Key: 考虑|2
+Value:
+
+Key: 48岁了|2
+Value:
+
+Key: 有时间限制吗|2
+Value:
+
+Key: 不聊|2
+Value:
+
+Key: 我在丰台|2
+Value:
+
+Key: 不好意思，贵司办公地址有点远，暂时不在我考虑范围之内。|2
+Value:
+
+Key: 不喜欢|2
+Value:
+
+Key: 谢谢，我现在在找兼职职位，可以再聊一下吗？|2
+Value:
+
+Key: 年龄有什么要求|2
+Value:
+
+Key: 暂时不了|2
+Value:
+
+Key: 住宿|2
+Value:
+
+Key: 不做快递员|2
+Value:
+
+Key: 美团买菜|2
+Value:
+
+Key: 厨师|2
+Value:
+
+Key: 我不会|2
+Value:
+
+Key: 人呢|2
+Value:
+
+Key: 一个人|2
+Value:
+
+Key: 怎么了|2
+Value:
+
+Key: 那么好|2
+Value:
+
+Key: 您好，很喜欢贵司，能否告知这一岗位的具体情况呢？|2
+Value:
+
+Key: 每天上班时间多久啊|2
+Value:
+
+Key: 你也好|2
+Value:
+
+Key: 美团外卖|2
+Value:
+
+Key: 超时|2
+Value:
+
+Key: 你好，我叫大圣，今年是17周18虚，身高178。体重140。身体健康，有肌肉💪，小伙看的呗精神|2
+Value:
+
+Key: 车子和宿舍扣多少啊|2
+Value:
+
+Key: 好的👌🏻|2
+Value:
+
+Key: nonono|2
+Value:
+
+Key: 瓜皮一个|2
+Value:
+
+Key: 再见|2
+Value:
+
+Key: 恩|2
+Value:
+
+Key: 顺义区|2
+Value:
+
+Key: BOSS好😆，我对这份工作很感兴趣，你看我有机会深入沟通下吗？|2
+Value:
+
+Key: 1|2
+Value:
+
+Key: 住宿这方面我也想了解一下|2
+Value:
+
+Key: NO|2
+Value:
+
+Key: 找一个工资可以的|2
+Value:
+
+Key: 抱歉，我在这边有工作了，暂时不打算换工作|2
+Value:
+
+Key: 22|2
+Value:
+18
+
+Key: 没有了|2
+Value:
+没在
+
+Key: 5|2
+Value:
+6
+
+Key: 你好，我是聋哑人|2
+Value:
+我是聋哑人
+
+Key: BOSS好，我正在找配送员的工作。目前工作10年以上，积累了装卸、电动车、市内短途、货运等方面的技能。详情可查看我的微简历，静候您的回复。|2
+Value:
+BOSS好，我正在找配送员的工作。目前工作8年，积累了Java、后端开发、移动开发等方面的技能。详情可查看我的微简历，静候您的回复。
+
+Key: 您好，在吗？|2
+Value:
+你好，在吗？
+
+Key: 稍等一下|2
+Value:
+稍等
+
+Key: 您正在招的配送员我很有兴趣，如果方便，希望可以和您进一步沟通，谢谢！|2
+Value:
+您正在招的招聘专员我很有兴趣，如果方便，希望可以和您进一步沟通，谢谢！
+
+Key: 不好意思啊我不送外卖|2
+Value:
+不好意思，没打算干外卖
+
+Key: 我还没满十八周|2
+Value:
+我还没满十八
+
+Key: 快成年了|2
+Value:
+成年了
+
+Key: 都是17|2
+Value:
+都是17周的
+
+Key: 七月|2
+Value:
+七月份
+
+Key: 餐饮行业|2
+Value:
+餐饮管理行业
+
+Key: 不可能|2
+Value:
+不可能呀
+
+Key: 还没有入职|2
+Value:
+还没离职
+
+Key: ！|2
+Value:
+！！
+
+Key: 快递算吗|2
+Value:
+快递配送吗
+
+Key: 抱歉，目前不打算找配送员|2
+Value:
+您好，很抱歉，不是很想做配送员
+
+Key: 是和外卖员那个工作一样吗|2
+Value:
+跟送外卖一样吧
+
+Key: 发错了吧你|2
+Value:
+发错了
+
+Key: 明白|2
+Value:
+明白了
+
+Key: 没，|2
+Value:
+没有，
+
+Key: 我是张家口|2
+Value:
+我在张家口了
+
+Key: 要1个招1个|2
+Value:
+要两个招两个
+
+Key: 什么意思？|2
+Value:
+什么？
+
+Key: 危险|2
+Value:
+太危险
+
+Key: 姐姐你好|2
+Value:
+你好姐
+
+Key: 您那边配送员是配送什么物品呀|2
+Value:
+你们配送什么
+
+Key: 周六日|2
+Value:
+周末
+
+Key: 都可以|2
+Value:
+都可以，
+
+Key: 百子湾|2
+Value:
+百子湾这边
+
+Key: 河北？|2
+Value:
+河北
+
+Key: 你多大啦|2
+Value:
+你多大了
+
+Key: 没有电动车|2
+Value:
+没电瓶车
+
+Key: 免费提供车辆吗|2
+Value:
+车子是免费的吗
+
+Key: 你好我想问下，咱们主要是坐什么工作的|2
+Value:
+我想问一下，咱们的工作是什么呀
+
+Key: 跑一跑|2
+Value:
+跑
+
+Key: 不干这个|2
+Value:
+不干这活儿
+
+Key: 不敢送餐员|2
+Value:
+我不干送餐员
+
+Key: 害怕|2
+Value:
+害怕出事
+
+Key: 不满18周|2
+Value:
+未满18周岁
+
+Key: 其实我还没毕业|2
+Value:
+我还没有毕业
+
+Key: 我在通州|2
+Value:
+我在通州北苑
+
+Key: 问一下|2
+Value:
+就问一下你
+
+Key: **吧|2
+Value:
+吧
+
+Key: 亦庄这边|2
+Value:
+亦庄
+
+Key: 是专送吧|2
+Value:
+是专送吗？
+
+Key: 知道了|2
+Value:
+知道了，谢谢
+
+Key: 我在密云|2
+Value:
+我在北京啊，北京密云
+
+Key: 送餐员啊目前不考虑这个|2
+Value:
+暂时没有想找送餐员这方面的工作
+
+Key: 我不想送餐，不好意思，浪费了你的时间。|2
+Value:
+我只是不想干送餐。没有急时回复你。抱歉了。
+
+Key: 有住房补贴之类的吗！？|2
+Value:
+有房子，有补贴吗
+
+Key: 我不适合，|2
+Value:
+不适合我
+
+Key: 超年龄了|2
+Value:
+超了几岁
+
+Key: 休息|2
+Value:
+好好休息
+
+Key: 我要找上五险的|2
+Value:
+我要的工作要有五险一金
+
+Key: 我有个朋友就是跑外卖，|2
+Value:
+我朋友就是干外卖的我知道的
+
+Key: 咋了|2
+Value:
+咋了啊
+
+Key: 我4月32号去面试|2
+Value:
+32号我就去面试了
+
+Key: 你也没说啊|2
+Value:
+你也不说
+
+Key: 工作这么简单？|2
+Value:
+这么简单？
+
+Key: 17周可以吗|2
+Value:
+十七周可以吗
+
+Key: 没想好|2
+Value:
+没想好呢
+
+Key: 我在大兴区|2
+Value:
+我在大兴
+
+Key: 目前在职，想换个地方感受一下|2
+Value:
+现在是想换个工作环境
+
+Key: 2个|2
+Value:
+两个
+
+Key: 我不做骑手谢谢|2
+Value:
+不做骑手，是我车技不行。谢谢
+
+Key: 啥玩意|2
+Value:
+啥事
+
+Key: 车住要钱不|2
+Value:
+电动车要钱不
+
+Key: 有其他的吗|2
+Value:
+没有其他的吗？
+
+Key: 我找保安工作|2
+Value:
+我找保安
+
+Key: 我还没有放假哦，我打算先看看暑假回去|2
+Value:
+我现在还没有放假呢
+
+Key: 给您添麻烦啦|2
+Value:
+麻烦你了
+
+Key: 五险一金是吗|2
+Value:
+五险一金的
+
+Key: 我是在校生|2
+Value:
+我是在校学生啊，怎么办
+
+Key: 下午可以兼职|2
+Value:
+下午可以吗
+
+Key: 谢谢啊我再看看吧|2
+Value:
+谢了我再找找看
+
+Key: 现在干着的呗|2
+Value:
+你找现在正干着的呢
+
+Key: 有吗底薪|2
+Value:
+有保底工资吗
+
+Key: 我不是很需要钱|2
+Value:
+我不缺钱
+
+Key: 顺义高丽营镇|2
+Value:
+顺义区高丽营镇羊房村
+
+Key: 工作不合适|2
+Value:
+工作不顺心.而且也不是很热爱这份工作
+
+Key: 刚刚从老家回来|2
+Value:
+我昨天刚回老家
+
+Key: 还有那个健康证呢|2
+Value:
+是不是还要健康证啥的
+
+Key: 不会看导航|2
+Value:
+不会一边开车一边看导航
+
+Key: 你那里有五险嘛？|2
+Value:
+有五险吗
+
+Key: 我只想要五险的工作|2
+Value:
+我要找上北京五险的工作
+
+Key: 谢谢您，目前不考虑这行|2
+Value:
+谢谢您不考虑这行
+
+Key: 哪有那么高的工资|2
+Value:
+哪有那么高
+
+Key: 我现在就在送外卖|2
+Value:
+我就是送外卖出来的
+
+Key: 通州土桥这边，|2
+Value:
+在北京通州土桥这边
+
+Key: 暂时不去北京，谢谢|2
+Value:
+已经不在北京了，谢谢
+
+Key: 下午3点以后|2
+Value:
+下午3点以后了
+
+Key: 没钱|2
+Value:
+没钱了
+
+Key: 我不清楚|2
+Value:
+不清楚
+
+Key: 在石景山区|2
+Value:
+石景山
+
+Key: 俩月|2
+Value:
+能干俩月
+
+Key: 前台|2
+Value:
+就前台
+
+Key: 不加了|2
+Value:
+不加
+
+Key: 一边儿去|2
+Value:
+一边去
+
+Key: 介绍费？|2
+Value:
+介绍费多少钱现在？
+
+Key: 不好意思，我做厨师的|2
+Value:
+不好意思，我是做厨子的
+
+Key: 你自己去送餐吗？|2
+Value:
+哦。你自己去送外卖吗？
+
+Key: 请问你们是什么平台的骑手|2
+Value:
+就问下你们是那个平台
+
+Key: 先了解清楚再去吧|2
+Value:
+先了解了解好了就进去
+
+Key: 刚几个月吧|2
+Value:
+一两个月左右吧
+
+Key: 骑手还有底薪？|2
+Value:
+骑手有底薪？
+
+Key: 现在8000|2
+Value:
+有8000？
+
+Key: 不好意思不考虑此职务|2
+Value:
+不好意思，我不太考虑这方面的工作
+
+Key: 你这跟我现在工作不一样|2
+Value:
+就是跟我现在干的工作不一样
+
+Key: 您发布的大兴日赚700送餐员配车供住职位还在招吗，我很感兴趣，希望可以深聊，期待您的回复！|2
+Value:
+请问大兴日赚700送餐员配车供住还在招吗，谢谢！
+
+Key: 不跑呀|2
+Value:
+不走啊
+
+Key: 距离远|2
+Value:
+远
+
+Key: 不考虑不在北京|2
+Value:
+不在北京，不考虑
+
+Key: 张女士你好|2
+Value:
+张女士好
+
+Key: 我只做日结的当天下班就拿工资的|2
+Value:
+我只做日结的
+
+Key: 好的，那您也早点休息|2
+Value:
+嗯呐，您也早点休息
+
+Key: 正在跑单啊|2
+Value:
+要跑单？
+
+Key: 行业不同|2
+Value:
+行业不一样
+
+Key: 已读不回有什么考虑|2
+Value:
+已读不回是有什么担心
+
+Key: 租车需要费用吗？|2
+Value:
+车需要租金吗？
+
+Key: 他们三个不会骑|2
+Value:
+他们三个连电动都不会骑。
+
+Key: 不好意思老板|2
+Value:
+真不好意思老板
+
+Key: 您好，我是高中高中生，对你发布的职位很感兴趣，可以把简历发给您吗？|1
+Value:
+
+Key: 11|1
+Value:
+
+Key: 你好，现在方便吗|1
+Value:
+
+Key: 方便交谈吗|1
+Value:
+
+Key: 明天下午可以吗|1
+Value:
+
+Key: 您好，Boss！期待深入沟通！|1
+Value:
+
+Key: 哇！非常喜欢这个岗位，想具体了解一下工作的内容~|1
+Value:
+
+Key: 你好，关注贵公司很久了，配送员还有空缺么？|1
+Value:
+
+Key: 你好，可以提供下站点吗|1
+Value:
+
+Key: 你好老板，我是阿瑞，老家甘肃·天水的。真诚等待您的回复！|1
+Value:
+
+Key: 您好，有收到消息吗|1
+Value:
+
+Key: 现在单价太低了|1
+Value:
+
+Key: 管不管吃住|1
+Value:
+
+Key: 想知道贵公司对配送员有什么其他要求呢？|1
+Value:
+
+Key: ***********，麻烦您加我微信，或我加您微信|1
+Value:
+
+Key: 您好！看了您的招聘信息，非常感兴趣。|1
+Value:
+
+Key: Boss您好，我是河南师范大学大专生，希望能和您进一步沟通|1
+Value:
+
+Key: 你好兼职一周两天全天兼职长期的要吗|1
+Value:
+
+Key: 在湖南|1
+Value:
+
+Key: 我骑车慢胆子小觉得送的少挣不多|1
+Value:
+
+Key: 骑得慢也没事听说顾客投诉|1
+Value:
+
+Key: 真的假的哄人吧我来家里还扣|1
+Value:
+
+Key: 那不晓得|1
+Value:
+
+Key: 觉得有点累|1
+Value:
+
+Key: 除了外卖还有啥|1
+Value:
+
+Key: 暂时先不去需要联系你|1
+Value:
+
+Key: 烦|1
+Value:
+
+Key: 想找一个轻松的活|1
+Value:
+
+Key: 上午11到下午七点别的时间去不了|1
+Value:
+
+Key: 抱歉，办公地点距离较远，暂时不考虑了，谢谢您的认可。|1
+Value:
+
+Key: 不好意思，不会骑电车😭|1
+Value:
+
+Key: 你好，不需要|1
+Value:
+
+Key: 我就想歇着|1
+Value:
+
+Key: 管吃住月休四天的工作有吗|1
+Value:
+
+Key: 外卖工作呗就是|1
+Value:
+
+Key: 我在辽宁了咋去啊|1
+Value:
+
+Key: 1000多公里呢|1
+Value:
+
+Key: 我只能做小时工下午的觉得不合适麻烦了|1
+Value:
+
+Key: 他这个提供电车也要钱的我知道|1
+Value:
+
+Key: 不想送外面这么热的天|1
+Value:
+
+Key: 你猜|1
+Value:
+
+Key: 你在逗我|1
+Value:
+
+Key: 你好烦啊，说了不用不用|1
+Value:
+
+Key: 谢谢您发布信息|1
+Value:
+
+Key: 我对于餐饮业不大了解|1
+Value:
+
+Key: 我就是刚干完送餐|1
+Value:
+
+Key: 真的吗|1
+Value:
+
+Key: 我只是想换工作|1
+Value:
+
+Key: 七月左右吧|1
+Value:
+
+Key: 我在想你是不是个坑|1
+Value:
+
+Key: 我现在在深圳美团站点|1
+Value:
+
+Key: 听老骑手说坑|1
+Value:
+
+Key: 路又复杂|1
+Value:
+
+Key: 取餐难|1
+Value:
+
+Key: 好多人在这里聊天|1
+Value:
+
+Key: 下雨没人去送|1
+Value:
+
+Key: 北京哪个站点啊|1
+Value:
+
+Key: 4小时8单算多吗|1
+Value:
+
+Key: 我也觉得少|1
+Value:
+
+Key: 房租都不够教|1
+Value:
+
+Key: 750房租电车2200电池300衣服装备200住宿押金100|1
+Value:
+
+Key: 开局坑了我100押金|1
+Value:
+
+Key: 我想干众包|1
+Value:
+
+Key: 深圳|1
+Value:
+
+Key: 应该没有改|1
+Value:
+
+Key: 北京天气受不了啊|1
+Value:
+
+Key: 又不是没去北京体验过|1
+Value:
+
+Key: 刚开始都是说的很好的|1
+Value:
+
+Key: 一进去就不一样了|1
+Value:
+
+Key: 我没赚到钱哪有钱去北京|1
+Value:
+
+Key: 这么好|1
+Value:
+
+Key: 北京冷吗|1
+Value:
+
+Key: 我可没有装备|1
+Value:
+
+Key: 哎没有熟人在北京|1
+Value:
+
+Key: 不敢搞|1
+Value:
+
+Key: 北京骗子太多了|1
+Value:
+
+Key: 我也被骗过就是开始说的很好|1
+Value:
+
+Key: 我没钱去|1
+Value:
+
+Key: 不入|1
+Value:
+
+Key: 感觉不太自由|1
+Value:
+
+Key: 不如干众包|1
+Value:
+
+Key: 这边多|1
+Value:
+
+Key: 蜂鸟的|1
+Value:
+
+Key: 我车660|1
+Value:
+
+Key: 改什么政策|1
+Value:
+
+Key: 为啥|1
+Value:
+
+Key: 你确定能攒下钱|1
+Value:
+
+Key: 我在山西|1
+Value:
+
+Key: 近期身体状况不是很好|1
+Value:
+
+Key: 打算混吃等死|1
+Value:
+
+Key: 姐你这活我真干不了|1
+Value:
+
+Key: 在线学生|1
+Value:
+
+Key: 但是我吃苦耐劳|1
+Value:
+
+Key: 每周六日工作日每天晚上都可以的哥|1
+Value:
+
+Key: 没18|1
+Value:
+
+Key: 在哪呢|1
+Value:
+
+Key: 密云|1
+Value:
+
+Key: 不太方便，您可以直接让我了解|1
+Value:
+
+Key: 您这里是属于公司直招还是中介性质？？？|1
+Value:
+
+Key: 我租的房子在昌平沙河一片|1
+Value:
+
+Key: 咱那边是房租补贴等等都没有是吗|1
+Value:
+
+Key: 联系您，，我是去哪个地方见您|1
+Value:
+
+Key: 您号码就是这个？我加你|1
+Value:
+
+Key: 康？|1
+Value:
+
+Key: 提供宿舍|1
+Value:
+
+Key: 想在安阳就职|1
+Value:
+
+Key: 你真烦啊|1
+Value:
+
+Key: 刚毕业|1
+Value:
+
+Key: 您好我暂时不考虑这个工作我还没高考完，如果说我高考完有这方面的意向我再主动联系您，谢谢|1
+Value:
+
+Key: 这个不好意思啊我不太能做这个|1
+Value:
+
+Key: 我们两个人16周岁|1
+Value:
+
+Key: 你好，不太考虑外卖|1
+Value:
+
+Key: 感觉不太安全|1
+Value:
+
+Key: 不用了吧不太考虑这个工作，谢谢啦|1
+Value:
+
+Key: 好滴|1
+Value:
+
+Key: 个人觉得我和贵公司这一岗位很匹配，可以聊聊么？|1
+Value:
+
+Key: 宋家庄|1
+Value:
+
+Key: 石榴庄这b|1
+Value:
+
+Key: 这边|1
+Value:
+
+Key: 您这边能兼职不|1
+Value:
+
+Key: 我离的远就不去了|1
+Value:
+
+Key: 现在在菜鸟送快递|1
+Value:
+
+Key: 暂时没考虑，感觉待遇也没那么好|1
+Value:
+
+Key: 干不了，我是还在上学的学生|1
+Value:
+
+Key: 不好意思啊，我胜任不了这份工作，谢谢您|1
+Value:
+
+Key: 还没太考虑不好|1
+Value:
+
+Key: 配送的干不了|1
+Value:
+
+Key: 人生地不熟|1
+Value:
+
+Key: 不需要了谢谢我已经找到工作|1
+Value:
+
+Key: 我是美国国防部部长|1
+Value:
+
+Key: 我马上发动F22F三五m一主战坦克对你进行有效打击|1
+Value:
+
+Key: 我是美国人|1
+Value:
+
+Key: 好的兄弟|1
+Value:
+
+Key: 加入我们霉菌|1
+Value:
+
+Key: 我们一起去叙利亚偷石油|1
+Value:
+
+Key: v|1
+Value:
+
+Key: 抱歉，不送，谢谢|1
+Value:
+
+Key: 需要驾驶证吗？|1
+Value:
+
+Key: 我有一定的配送员经验，不甘于一成不变的生活，想不断尝试新的挑战，如方便能否聊聊？|1
+Value:
+
+Key: 可以简单介绍一下岗位信息吗？|1
+Value:
+
+Key: 哪个外卖平台的|1
+Value:
+
+Key: 哪个城市|1
+Value:
+
+Key: 配送距离多少|1
+Value:
+
+Key: 每天最低跑多少单|1
+Value:
+
+Key: 西站怎么样|1
+Value:
+
+Key: 或者西单|1
+Value:
+
+Key: 什么地区的|1
+Value:
+
+Key: 先发位置我看看|1
+Value:
+
+Key: 管饭吗？|1
+Value:
+
+Key: 不干，别给我发信息了|1
+Value:
+
+Key: 海鲜养殖|1
+Value:
+
+Key: 快递|1
+Value:
+
+Key: 暑假|1
+Value:
+
+Key: 又是送外卖|1
+Value:
+
+Key: 就是不会这个两个轮|1
+Value:
+
+Key: 快递丿保洁|1
+Value:
+
+Key: 请问，这个岗位还有空缺？我觉得自己很适合，能够胜任，希望进一步的与您介绍自己。|1
+Value:
+
+Key: 我对北京不熟悉，怕不能及时送达呀|1
+Value:
+
+Key: 咱们在平台上预约一下吧|1
+Value:
+
+Key: 时间能改成下午5点吗，时间有点紧|1
+Value:
+
+Key: 线下单杀？|1
+Value:
+
+Key: 你不懂？|1
+Value:
+
+Key: 666|1
+Value:
+
+Key: 百度一下，谢谢🙏|1
+Value:
+
+Key: 去尼玛的，|1
+Value:
+
+Key: 叫弟弟吧|1
+Value:
+
+Key: 有了|1
+Value:
+
+Key: 我可不相信天上掉馅饼|1
+Value:
+
+Key: 嗯，我不太想干咱们推荐的活儿|1
+Value:
+
+Key: 我想干HR|1
+Value:
+
+Key: 行吗|1
+Value:
+
+Key: 我是给工厂招，领导缺人我找人|1
+Value:
+
+Key: 我哪有您厉害|1
+Value:
+
+Key: 你去查查呀|1
+Value:
+
+Key: 你不查就说我瞎说|1
+Value:
+
+Key: 在沈阳|1
+Value:
+
+Key: 能只干半天吗|1
+Value:
+
+Key: 大兴青云店|1
+Value:
+
+Key: 一个月最低多少工资|1
+Value:
+
+Key: 肯定是好好干了|1
+Value:
+
+Key: 现在招聘都这样招聘了？|1
+Value:
+
+Key: 这是做什么的呢？|1
+Value:
+
+Key: 电动车住宿需要押金吗|1
+Value:
+
+Key: 你好，来自山西·运城，我具备奋斗精神、无不良嗜好的特点。随时等待您的联系！|1
+Value:
+
+Key: 西四区|1
+Value:
+
+Key: 不了解|1
+Value:
+
+Key: 需要，你那用俩口子吗？|1
+Value:
+
+Key: 不行|1
+Value:
+
+Key: 受过伤|1
+Value:
+
+Key: 我干的是外卖，正常，请问一下，大多还是不怎么挣钱的，想挣钱的，除非玩命干|1
+Value:
+
+Key: 正常情况下，大多数还是不挣钱的|1
+Value:
+
+Key: 年纪轻轻的闯红灯肋骨都干断一根|1
+Value:
+
+Key: 饭店出不餐把我时间耽搁了|1
+Value:
+
+Key: 谁管你这老百姓啊，社会的最低层|1
+Value:
+
+Key: 社会的最底层|1
+Value:
+
+Key: 不了哥哥|1
+Value:
+
+Key: IT|1
+Value:
+
+Key: 你在通州那边？|1
+Value:
+
+Key: 我要是工作也要半个月以后了|1
+Value:
+
+Key: 随时上班|1
+Value:
+
+Key: 这么晚了，你们还不睡啊🤔|1
+Value:
+
+Key: 谢谢啦，我睡觉了，晚安|1
+Value:
+
+Key: 在呢在呢|1
+Value:
+
+Key: 哎！|1
+Value:
+
+Key: 没没没，姐，我这两天也是在找工作中，找的人都快麻了，哈哈哈|1
+Value:
+
+Key: 姐，你再找找别的人吧，我想休息一段时间了，不想工作了，这份工作辞职了，我出去玩一段时间再说吧，这两天给您添麻烦了|1
+Value:
+
+Key: 住宿车辆|1
+Value:
+
+Key: 我只是暂时|1
+Value:
+
+Key: 我想应聘贵公司的站点直招配送员,《提供车住宿》，盼望回复，谢谢！|1
+Value:
+
+Key: 有工作了|1
+Value:
+
+Key: 不需要住宿|1
+Value:
+
+Key: 驻店配送吗？|1
+Value:
+
+Key: 东城区东四北大街附近有站点吗|1
+Value:
+
+Key: 你租房的吗？|1
+Value:
+
+Key: 当然需要了|1
+Value:
+
+Key: 加个微信聊可以不|1
+Value:
+
+Key: 自由职业随时到岗|1
+Value:
+
+Key: 只能上午|1
+Value:
+
+Key: 哥哥目前有地方住|1
+Value:
+
+Key: 你呢|1
+Value:
+
+Key: 你老家那的|1
+Value:
+
+Key: 你什么时候回来|1
+Value:
+
+Key: 约个下午茶？|1
+Value:
+
+Key: 约个饭也可以哈|1
+Value:
+
+Key: 私人微信？|1
+Value:
+
+Key: 亚运村安慧里这|1
+Value:
+
+Key: 不是，我想在邯郸找工作，|1
+Value:
+
+Key: 可能是地址没修改过来吧|1
+Value:
+
+Key: 离职在房山这边你们房山窦店这边有吗|1
+Value:
+
+Key: 我16838一个月多少钱压工资吗上保险社保吗提供吃住吗|1
+Value:
+
+Key: 你好请问贵司还在招聘吗|1
+Value:
+
+Key: 交换微信|1
+Value:
+
+Key: 在次渠这边|1
+Value:
+
+Key: 我是刘志华，老家内蒙古·乌海的，个人比较服务态度好、服从指挥。能否给个沟通机会呀？|1
+Value:
+
+Key: 我有车|1
+Value:
+
+Key: 上社保|1
+Value:
+
+Key: 不过我比你小|1
+Value:
+
+Key: 我需要|1
+Value:
+
+Key: 传媒大学|1
+Value:
+
+Key: 啊还在山西，干其他工作嘞|1
+Value:
+
+Key: 还有四十天可以吗|1
+Value:
+
+Key: 四十天成年|1
+Value:
+
+Key: 在，有社保没有|1
+Value:
+
+Key: 地址在哪里|1
+Value:
+
+Key: 不需要我在通州万达这边住|1
+Value:
+
+Key: 这个工作是在丰台嘛|1
+Value:
+
+Key: 不需要，我有地方住|1
+Value:
+
+Key: 我不送外卖谢谢姐姐|1
+Value:
+
+Key: 之前是在朝阳工作，现在搬到丰台这边了，就想赶紧先上个班|1
+Value:
+
+Key: 请问上班时间以及待遇是？|1
+Value:
+
+Key: 好的，转正后的底薪也是5K吗|1
+Value:
+
+Key: 美，饿，哒，闪，不过，物美不干。|1
+Value:
+
+Key: 几个小时|1
+Value:
+
+Key: 只考虑兼职，在下午|1
+Value:
+
+Key: 5或者4到十一|1
+Value:
+
+Key: 近的话，十一点半|1
+Value:
+
+Key: 嗯好吧，有道理，那你发微信给我吧|1
+Value:
+
+Key: 啊，哈哈，抱歉，光顾着聊天儿了没注意|1
+Value:
+
+Key: 不好意思，对这个不感兴趣，谢谢您的推荐|1
+Value:
+
+Key: 不好意思，不打算跑美团或者饿了么的专送，谢谢😊|1
+Value:
+
+Key: 我不要跑专送啊|1
+Value:
+
+Key: 老板您好，我叫卫俊杰，今年41岁。我是一个工作态度认真、吃苦耐劳的人，曾经就职于的岗位，在这份工作上已经有24年经验了，拥有岗位所需的工作能力，我最大的优势是：非常有责任心。如果您认为我合适，希望能和我联系，十分感谢！|1
+Value:
+
+Key: 延庆有嘛|1
+Value:
+
+Key: 是在延庆嘛|1
+Value:
+
+Key: 新人入职奖励多少钱多长时间给发|1
+Value:
+
+Key: 朝阳垡头这里有没有站点|1
+Value:
+
+Key: 信息没了解清楚之前不方便加陌生人|1
+Value:
+
+Key: 好的介绍一下我的问题|1
+Value:
+
+Key: 垡头地铁或者双合地铁附近就可以|1
+Value:
+
+Key: 那远了点对那边区域也不是很熟悉|1
+Value:
+
+Key: 这两个地铁站附近没有站点是吧|1
+Value:
+
+Key: 你发下位置|1
+Value:
+
+Key: 请问五一急招配送王者职位还在招人吗，上班地点具体在哪里呢？|1
+Value:
+
+Key: 妹妹你来廊坊吗|1
+Value:
+
+Key: 我们招个行政|1
+Value:
+
+Key: 咋反了还|1
+Value:
+
+Key: 待遇嘎嘎好|1
+Value:
+
+Key: 我们这个点已经下班了|1
+Value:
+
+Key: 不考虑此行业抱歉|1
+Value:
+
+Key: 我没证怎么考虑呀|1
+Value:
+
+Key: 看错了，我看成网约车司机了|1
+Value:
+
+Key: 暂时也不考虑骑手这份工作|1
+Value:
+
+Key: 夏天送外卖跟进厂差不多不差不多嘛|1
+Value:
+
+Key: 要是打算好了送外卖的话我联系您|1
+Value:
+
+Key: 不在职|1
+Value:
+
+Key: 咱们这个岗位有啥要求吗|1
+Value:
+
+Key: 我要社保！我要双休！您给不了|1
+Value:
+
+Key: 了解一下每天工作几个小时|1
+Value:
+
+Key: 会|1
+Value:
+
+Key: 计算机|1
+Value:
+
+Key: 编程|1
+Value:
+
+Key: 图片设计也可以|1
+Value:
+
+Key: 差不多|1
+Value:
+
+Key: 页面设计|1
+Value:
+
+Key: 怎么样呀|1
+Value:
+
+Key: 计算机语言学过几种|1
+Value:
+
+Key: 开发我还不够格|1
+Value:
+
+Key: 我设计还一般般|1
+Value:
+
+Key: 我不喜欢干骑手的行业|1
+Value:
+
+Key: 有纹身的要吗|1
+Value:
+
+Key: 我朋友不想干那个|1
+Value:
+
+Key: 送外卖是不是时间紧|1
+Value:
+
+Key: 我跟朋友商量一下|1
+Value:
+
+Key: 您这个每单给的钱属实吗？|1
+Value:
+
+Key: 主要是之前找了好多工作。手机上跟实际根本工资不匹配。|1
+Value:
+
+Key: 这个是日结还是月结|1
+Value:
+
+Key: 这个不太行。|1
+Value:
+
+Key: 因为我这月就要用|1
+Value:
+
+Key: 而且只能当兼职|1
+Value:
+
+Key: 就是每天下班后|1
+Value:
+
+Key: 不适合这个|1
+Value:
+
+Key: 那你先借我点呗|1
+Value:
+
+Key: 好吧那不考虑了先、我以为是住店外送|1
+Value:
+
+Key: 薪资待遇大概多少呀|1
+Value:
+
+Key: 北京车多|1
+Value:
+
+Key: 能整了吗|1
+Value:
+
+Key: 你就当我成年啦呗|1
+Value:
+
+Key: 不用了，朋友|1
+Value:
+
+Key: 我现在有过渡工作正干着呢准备找个挣的更多的呗|1
+Value:
+
+Key: 15要吗|1
+Value:
+
+Key: 8个|1
+Value:
+
+Key: 没的|1
+Value:
+
+Key: 三个人|1
+Value:
+
+Key: 年初|1
+Value:
+
+Key: 我对北京也不熟悉。|1
+Value:
+
+Key: 没去过|1
+Value:
+
+Key: 我现在也没在北京因为一些原因我需要提前找工作。|1
+Value:
+
+Key: 我残疾人不适合送餐|1
+Value:
+
+Key: 你好，抱歉，不会开车。|1
+Value:
+
+Key: 有病啊，不合适|1
+Value:
+
+Key: 差五个月成年可以吗|1
+Value:
+
+Key: 一个|1
+Value:
+
+Key: 还有一个没问他|1
+Value:
+
+Key: 那个满18的，不知道来不来|1
+Value:
+
+Key: 这个送餐给电动车吗|1
+Value:
+
+Key: 换个微信吧，我问一下那人|1
+Value:
+
+Key: 我不用管吃管住|1
+Value:
+
+Key: 哥咋还没同意|1
+Value:
+
+Key: 已满17周未满18周可以吗|1
+Value:
+
+Key: 我女朋友我得先给他找个工作|1
+Value:
+
+Key: 加完了|1
+Value:
+
+Key: 你了|1
+Value:
+
+Key: 我不做这个|1
+Value:
+
+Key: 不是计件的，工资六千五以上的|1
+Value:
+
+Key: 不用了谢谢，怎么变成底薪了|1
+Value:
+
+Key: 哦哦，没有，到时候再说吧|1
+Value:
+
+Key: 对不起，高中生|1
+Value:
+
+Key: 什么时候想毕业都行|1
+Value:
+
+Key: 简直太近了|1
+Value:
+
+Key: 不考虑帅哥|1
+Value:
+
+Key: 我这先不考虑送餐员不好意思啊|1
+Value:
+
+Key: 做什么工作的|1
+Value:
+
+Key: 哥我才17岁。|1
+Value:
+
+Key: 咱这9月份的。|1
+Value:
+
+Key: 那个提供住宿的吧。|1
+Value:
+
+Key: 你好工作是哪个平台的|1
+Value:
+
+Key: 先不考虑了哥|1
+Value:
+
+Key: 不去，滚|1
+Value:
+
+Key: qnmd|1
+Value:
+
+Key: qnm|1
+Value:
+
+Key: 不想工作|1
+Value:
+
+Key: 在校生只能兼职|1
+Value:
+
+Key: 每天中午十二点以后|1
+Value:
+
+Key: 我在怀柔|1
+Value:
+
+Key: 骑手不考虑暂时|1
+Value:
+
+Key: 不好这行|1
+Value:
+
+Key: 打错字了|1
+Value:
+
+Key: 17岁行不行？|1
+Value:
+
+Key: 您好新能源的有嘛|1
+Value:
+
+Key: 或者私人助理的|1
+Value:
+
+Key: 酒店|1
+Value:
+
+Key: 工作时间8个小时左右，六休一，工资不要太低就行|1
+Value:
+
+Key: 是合适了，但原来打暑假工干过配送，被坑过，不喜欢|1
+Value:
+
+Key: 不是北京这边，在老家那边，刚刚毕业出来也没想着賺多少钱，来走走玩玩|1
+Value:
+
+Key: 所以我怎么选是我的事吧|1
+Value:
+
+Key: 我被坑了还想让我对这个行业有好印象？|1
+Value:
+
+Key: 我又不是来送温暖呢|1
+Value:
+
+Key: 没有这方面的经历|1
+Value:
+
+Key: 我对送餐的路线不熟|1
+Value:
+
+Key: 服务员啊什么的|1
+Value:
+
+Key: 你这个风里来雨里去累得很啊！|1
+Value:
+
+Key: 我待会到新发地北|1
+Value:
+
+Key: 待会你发个位置我看看过去吧|1
+Value:
+
+Key: 不干配送员谢谢|1
+Value:
+
+Key: 用不用自己买电车啥的？|1
+Value:
+
+Key: 我怕胜任不了|1
+Value:
+
+Key: 我不在你们那个地方，再去的话有点远了|1
+Value:
+
+Key: 内蒙古通辽|1
+Value:
+
+Key: 想去|1
+Value:
+
+Key: 我不干力工，我干过，就是物流装卸，还有快递那个卸车。那个|1
+Value:
+
+Key: 不是说轻重，他有的能干的了，有的干干不了，关键是有的能适应，有的适应不了|1
+Value:
+
+Key: 公司安排的车用交租金嘛|1
+Value:
+
+Key: 老板打扰一下我叫宋，我为人老实、踏实肯干。方便的话麻烦回复我一下|1
+Value:
+
+Key: 不敢外卖|1
+Value:
+
+Key: 我的意向是餐饮，暂时不考虑其他职业，谢谢|1
+Value:
+
+Key: 您招聘的不是骑手吗|1
+Value:
+
+Key: 管住吗？住宿舍啊|1
+Value:
+
+Key: 电动车得绑支付宝扣钱?还是工资扣?|1
+Value:
+
+Key: 有意加微信聊吧，|1
+Value:
+
+Key: 工作不是想干的|1
+Value:
+
+Key: 别给我发了|1
+Value:
+
+Key: 给你说的不适合看不懂吗|1
+Value:
+
+Key: 不在，需要|1
+Value:
+
+Key: 随时|1
+Value:
+
+Key: 那边奖励机制是啥样的|1
+Value:
+
+Key: 配送范围是几公里|1
+Value:
+
+Key: 几环内|1
+Value:
+
+Key: 算市里单价|1
+Value:
+
+Key: 好嘞|1
+Value:
+
+Key: 没事，我朋友就是干这个的，我直接去他们站点就行|1
+Value:
+
+Key: 那你想怎么样？你说|1
+Value:
+
+Key: 不好意思，我是干贴膜的|1
+Value:
+
+Key: 5000|1
+Value:
+
+Key: 长期工|1
+Value:
+
+Key: 您在哪个区，需不需要住宿呢，可以帮您就近分配，当天可安排住宿，成功入职可预支工资|1
+Value:
+
+Key: 电话都不接|1
+Value:
+
+Key: 晚上十点以后可以吗|1
+Value:
+
+Key: 是的，已离职|1
+Value:
+
+Key: 之前没送过外卖|1
+Value:
+
+Key: 以前送过，不感冒|1
+Value:
+
+Key: 暂时没有打算这个工作|1
+Value:
+
+Key: 不好意思，回复晚了现在在锦州如果工作的话，在哪里都可以，常年也可以，家里没负担|1
+Value:
+
+Key: 什么骑手，怎么干，挣8000？我没干过|1
+Value:
+
+Key: 所以问问|1
+Value:
+
+Key: 你好。我对餐饮行不感兴趣|1
+Value:
+
+Key: 什么活|1
+Value:
+
+Key: 外卖不管吃吧|1
+Value:
+
+Key: 这么好的侍遇会缺人吗|1
+Value:
+
+Key: 我还是不考虑了|1
+Value:
+
+Key: 没有为什么，|1
+Value:
+
+Key: 我找的是开车活，不是送餐的|1
+Value:
+
+Key: 每个月都有？|1
+Value:
+
+Key: 7-12，都这价吧|1
+Value:
+
+Key: 不找你|1
+Value:
+
+Key: 不找了没有合适的|1
+Value:
+
+Key: 有点儿远|1
+Value:
+
+Key: 我在后沙峪这边儿|1
+Value:
+
+Key: 我想问一下，要是自己跑美团怎么弄啊|1
+Value:
+
+Key: 点完了怎么弄啊|1
+Value:
+
+Key: 有点顾虑|1
+Value:
+
+Key: 你职位已关闭啊|1
+Value:
+
+Key: 我都看不到|1
+Value:
+
+Key: 咱们交换下，然后请你加我，然后咱们在V上沟通，谢谢|1
+Value:
+
+Key: 北京单价也就5块钱左右吧|1
+Value:
+
+Key: 而且熟悉地形挺慢的|1
+Value:
+
+Key: 我之前在海淀那边单价都是五块多|1
+Value:
+
+Key: 还是想找个普通的吧|1
+Value:
+
+Key: 这个不是今天跑明天钱到账的呀|1
+Value:
+
+Key: 暂时不打算去那边|1
+Value:
+
+Key: 应该到25号左右了|1
+Value:
+
+Key: 我不太懂咱们这个工作内容|1
+Value:
+
+Key: 你可以详细描述一下么|1
+Value:
+
+Key: 不是不太合适我胜任不了这个骑车|1
+Value:
+
+Key: 服务吧|1
+Value:
+
+Key: 别找我了，太远了，我去不了|1
+Value:
+
+Key: 在西单区|1
+Value:
+
+Key: 我不会骑车小时候受过伤所以。。|1
+Value:
+
+Key: 丰台区珠江骏景北区|1
+Value:
+
+Key: 好家伙|1
+Value:
+
+Key: 这得学多久|1
+Value:
+
+Key: 太危险北京车太多|1
+Value:
+
+Key: 胆小|1
+Value:
+
+Key: 我每天下午5点以后的时间段可以吗|1
+Value:
+
+Key: 干不了了骨折了|1
+Value:
+
+Key: 我干过了外卖骑手|1
+Value:
+
+Key: 饿了么骑手|1
+Value:
+
+Key: 我干了三个月|1
+Value:
+
+Key: 离我家远了，我家里有事，所以不干了，想在北京找个|1
+Value:
+
+Key: 可以17号之后再去吗|1
+Value:
+
+Key: 我干配菜工|1
+Value:
+
+Key: 再说一遍，我他妈不送外卖|1
+Value:
+
+Key: 我他妈什么时候骂你了，我他妈只是说我情绪比较激动，我什么时候骂你了？|1
+Value:
+
+Key: 你告诉我，我tm这三个字，我骂你什么了？|1
+Value:
+
+Key: 我知道我很有素质就行了，不需要你来夸|1
+Value:
+
+Key: 666你还举报我，你还真是个人才|1
+Value:
+
+Key: 忍你妈你妈，你他骂妈，我他妈真骂你|1
+Value:
+
+Key: 好个屁好，我他妈本来情绪就不对，***上来找骂怪我啊，更何况我还没骂你，你还举报我，真TM是大聪明|1
+Value:
+
+Key: 每周只有一天时间可以送|1
+Value:
+
+Key: 天通苑这边|1
+Value:
+
+Key: 不是，|1
+Value:
+
+Key: 我找夜班，|1
+Value:
+
+Key: 我在这边上班，是早7到晚7.30|1
+Value:
+
+Key: 中午休息一会，|1
+Value:
+
+Key: 我看咋们这有上班时间表，|1
+Value:
+
+Key: 所以，也就没回复|1
+Value:
+
+Key: 驻店配送就可以去|1
+Value:
+
+Key: 驻店不行，超年龄了，只能兼职|1
+Value:
+
+Key: 符合什么条件|1
+Value:
+
+Key: 都会|1
+Value:
+
+Key: 还没呢|1
+Value:
+
+Key: 7月30号成年|1
+Value:
+
+Key: 晚上7-8点起|1
+Value:
+
+Key: 需要干多久啊|1
+Value:
+
+Key: 聊点什么？你说吧。|1
+Value:
+
+Key: 我是民间派的无证中医，想找中医的工作。|1
+Value:
+
+Key: 我想在平谷找工作，谢谢啊！|1
+Value:
+
+Key: 你怎么就和苍蝇一样|1
+Value:
+
+Key: 底薪四到六千？|1
+Value:
+
+Key: 自己找工作|1
+Value:
+
+Key: 在顺义这边|1
+Value:
+
+Key: 现在身体不好。干不了体力活。|1
+Value:
+
+Key: 现在不想跑啊|1
+Value:
+
+Key: 周一到周五，9点到下午3点的兼职，节假日休息|1
+Value:
+
+Key: 需要什么的呢|1
+Value:
+
+Key: 目前是有的|1
+Value:
+
+Key: 嗯，全职|1
+Value:
+
+Key: 你们那是找？？？|1
+Value:
+
+Key: 找一个服务员一类的工作，短期|1
+Value:
+
+Key: 短期差不多能干个3月到年底|1
+Value:
+
+Key: 你陪我送可以吗|1
+Value:
+
+Key: 安全生产培训，没投骑手的简历哈|1
+Value:
+
+Key: 在北京，我不想做骑手工作哈谢谢老板|1
+Value:
+
+Key: 消防工程类的|1
+Value:
+
+Key: 谢谢老板不考虑了|1
+Value:
+
+Key: 我不做配送员，谢谢老板|1
+Value:
+
+Key: 要女士吗有地方住吗|1
+Value:
+
+Key: 我是女士|1
+Value:
+
+Key: 不干骑手一类谢谢|1
+Value:
+
+Key: 库管一类|1
+Value:
+
+Key: 在昌平租的房子|1
+Value:
+
+Key: 您好，您这边是属于外卖吗？|1
+Value:
+
+Key: Boss您好，我叫魏加豪，之前在霍尔果斯世瑞博元教育科技有限公司任职过普工/操作工岗位，于初中及以下的专业初中及以下毕业，您的岗位和我的经历非常匹配，原因是：1.我具备相关的工作经历，并且取得过不错的项目成绩；2.我拥有岗位所需的工作技能，可以很快上手，3.我责任心强、团队协作和抗压能力都不错；感兴趣的话可否给您发一份简历看看？|1
+Value:
+
+Key: 后厨|1
+Value:
+
+Key: 我想干短期的，十几天左右|1
+Value:
+
+Key: 下月初回家。|1
+Value:
+
+Key: 回家有事，|1
+Value:
+
+Key: 回来，|1
+Value:
+
+Key: 还来，北京，|1
+Value:
+
+Key: 丰台区方庄|1
+Value:
+
+Key: 能不能了解一下市场，现在外卖员比单子还多，|1
+Value:
+
+Key: 半个小时一单有啥好跑的。|1
+Value:
+
+Key: 天天给我抱怨，|1
+Value:
+
+Key: 我做过专送。众包，优选，|1
+Value:
+
+Key: 我知道啥情况|1
+Value:
+
+Key: 你们人力资源能不能别烦我了，|1
+Value:
+
+Key: 我不能用支付宝收付款，信用分457，你们还免费给车吗？|1
+Value:
+
+Key: 那前期，能日结吗？|1
+Value:
+
+Key: 前期，又不能天天预支，但我需要安抚家里。|1
+Value:
+
+Key: 东城|1
+Value:
+
+Key: 我想吃软饭|1
+Value:
+
+Key: 对不起我在南京|1
+Value:
+
+Key: 没有对不起|1
+Value:
+
+Key: 快递保安|1
+Value:
+
+Key: 17到10月多18。|1
+Value:
+
+Key: 对。|1
+Value:
+
+Key: 没意向勿扰勿回|1
+Value:
+
+Key: 还差19天|1
+Value:
+
+Key: 方便加个vx吗|1
+Value:
+
+Key: 您的公司太远了啦|1
+Value:
+
+Key: 我是北京人，能干送餐嘛|1
+Value:
+
+Key: 我找个男人事|1
+Value:
+
+Key: 有00年的人事吗|1
+Value:
+
+Key: 我想找个跟我差不多大小的，比较好交流|1
+Value:
+
+Key: 周日和周一|1
+Value:
+
+Key: 已申请|1
+Value:
+
+Key: 先了解一下|1
+Value:
+
+Key: 公司地址在哪里|1
+Value:
+
+Key: 可以在家做吗|1
+Value:
+
+Key: 瘸子|1
+Value:
+
+Key: 你什么学历啊|1
+Value:
+
+Key: 短期行不|1
+Value:
+
+Key: 一个月|1
+Value:
+
+Key: 家在丰台不用付房租|1
+Value:
+
+Key: 现在北京房租太贵了去别的地方还要承担房租|1
+Value:
+
+Key: 我上个月中了500w，暂时不想上班|1
+Value:
+
+Key: 乙肝能来吗|1
+Value:
+
+Key: w4n88w4n88w4n88|1
+Value:
+
+Key: 就那样子|1
+Value:
+
+Key: 瞎忙活呗|1
+Value:
+
+Key: 32号|1
+Value:
+
+Key: 半在职半离职|1
+Value:
+
+Key: 不方便就在这里说吧|1
+Value:
+
+Key: 我回你了|1
+Value:
+
+Key: 就在这里说吧|1
+Value:
+
+Key: 我跟你说面试时间了|1
+Value:
+
+Key: 你觉得简单吗|1
+Value:
+
+Key: 那你咋不干啊|1
+Value:
+
+Key: 那你怎么判定我喜不喜欢啊|1
+Value:
+
+Key: 跟你约面试了啊|1
+Value:
+
+Key: 你想着点|1
+Value:
+
+Key: 逗你确实挺开心的|1
+Value:
+
+Key: 你还骂不了我|1
+Value:
+
+Key: 你生气不|1
+Value:
+
+Key: 表面挺冷静实则内心已经气炸了|1
+Value:
+
+Key: 行不生气就挺好|1
+Value:
+
+Key: 那就挺好|1
+Value:
+
+Key: 为的就是你不生气|1
+Value:
+
+Key: 你要生气就不好玩了|1
+Value:
+
+Key: 我举报你一下|1
+Value:
+
+Key: 儿子继续跟我说话|1
+Value:
+
+Key: 真乖|1
+Value:
+
+Key: sb|1
+Value:
+
+Key: 是店里面送还是接外卖订单了|1
+Value:
+
+Key: 没装备|1
+Value:
+
+Key: 不是，我是干厨师的，这个不适合我|1
+Value:
+
+Key: 8000|1
+Value:
+
+Key: 主要是我没干过这个啊|1
+Value:
+
+Key: 车宿？啥意思|1
+Value:
+
+Key: 一个月大概多少钱？|1
+Value:
+
+Key: 配电车管吃住？|1
+Value:
+
+Key: 请问您这是什么工作|1
+Value:
+
+Key: 是美团还是|1
+Value:
+
+Key: 我想要女人多的地方|1
+Value:
+
+Key: 钱不钱无所谓，只要女孩多的单位|1
+Value:
+
+Key: 能直接应聘站长吗|1
+Value:
+
+Key: 那站长一个月多钱呀！一个站点100人吗？我之前在县级市干过站长，也是一点点爬上去的。|1
+Value:
+
+Key: 别闹|1
+Value:
+
+Key: 你这是那个平台送餐啊|1
+Value:
+
+Key: 车子多少钱一个月|1
+Value:
+
+Key: 您这边是团队的吗？|1
+Value:
+
+Key: 了解|1
+Value:
+
+Key: 马泉营附近单价多少|1
+Value:
+
+Key: 要是给上五险一金就行|1
+Value:
+
+Key: 我想问一下具体的工作时间安排？|1
+Value:
+
+Key: 这不就是外卖么|1
+Value:
+
+Key: 从哪儿到哪儿，几点到几点|1
+Value:
+
+Key: 固定不固定|1
+Value:
+
+Key: 说清楚了再加微信|1
+Value:
+
+Key: 三里屯|1
+Value:
+
+Key: 你就说怎么送饭吧，从哪儿到哪儿？几点到几点|1
+Value:
+
+Key: 开汽车还是骑电动车，或者|1
+Value:
+
+Key: 什么单|1
+Value:
+
+Key: 美团，饿了么之类的一律不干|1
+Value:
+
+Key: 不会送，算了吧|1
+Value:
+
+Key: 我现在找工作找的头疼，不找了|1
+Value:
+
+Key: 不加微信|1
+Value:
+
+Key: 你再找其他人吧|1
+Value:
+
+Key: 那你们是负责哪一片的送餐|1
+Value:
+
+Key: 是固定的吗|1
+Value:
+
+Key: 尽量安排提供住宿|1
+Value:
+
+Key: 年龄不够能要吗？|1
+Value:
+
+Key: 微信|1
+Value:
+
+Key: 我应聘西餐厨师|1
+Value:
+
+Key: 一周的样子吧|1
+Value:
+
+Key: 抱歉咱不需要|1
+Value:
+
+Key: 我不是找你这个工作的|1
+Value:
+
+Key: 咱们这个工作目前不考虑，谢谢|1
+Value:
+
+Key: 不靠谱|1
+Value:
+
+Key: 怕，|1
+Value:
+
+Key: 不适合做配送工作|1
+Value:
+
+Key: 不需要这样工作|1
+Value:
+
+Key: 我媳妇找|1
+Value:
+
+Key: 普工|1
+Value:
+
+Key: 8小时那种|1
+Value:
+
+Key: 我简历上写没写送餐这项？|1
+Value:
+
+Key: 我找的是物业电工|1
+Value:
+
+Key: 能挣钱就行，不想做流水线的工作，太忙，太慌，顾不过来，不想跑外卖，时间太赶，风吹日晒的，工作6000以上|1
+Value:
+
+Key: 对啊，前期你能让我挣8000？|1
+Value:
+
+Key: 我送货外卖，体会过|1
+Value:
+
+Key: 怎么改革了？|1
+Value:
+
+Key: 美女很漂亮|1
+Value:
+
+Key: 再想想|1
+Value:
+
+Key: 不好意思，已经再跑众包了|1
+Value:
+
+Key: 嗯，我是兼职一下众包这样的，有工作的|1
+Value:
+
+Key: 我不喜欢跑腿|1
+Value:
+
+Key: 不是租车么|1
+Value:
+
+Key: 到底是不是租车|1
+Value:
+
+Key: 这里不方便发么|1
+Value:
+
+Key: 这个软件是干什么的先生|1
+Value:
+
+Key: 送不了，|1
+Value:
+
+Key: 哪方面也送不了|1
+Value:
+
+Key: 手把手教吗？|1
+Value:
+
+Key: …|1
+Value:
+
+Key: 我说过不考虑了吧|1
+Value:
+
+Key: 这个就不劳烦您关心呢|1
+Value:
+
+Key: 这边不合适|1
+Value:
+
+Key: 做什么的|1
+Value:
+
+Key: 目前随便看看不考虑|1
+Value:
+
+Key: 我不干送餐天热了|1
+Value:
+
+Key: 我想干了再联系你吧。|1
+Value:
+
+Key: 这几天没有时间|1
+Value:
+
+Key: 不做，我是酒店厨师|1
+Value:
+
+Key: 我加盟商的别发了嗷|1
+Value:
+
+Key: 大洋|1
+Value:
+
+Key: 没有我挂的服务员|1
+Value:
+
+Key: 而且我觉得我的形象比较设和去做销售之前一直也是|1
+Value:
+
+Key: 大姐，你好😁|1
+Value:
+
+Key: 不考虑哈哈哈|1
+Value:
+
+Key: 我这种人才送这玩意浪费，谢谢啊|1
+Value:
+
+Key: 你确定一单10以上？|1
+Value:
+
+Key: 签合同吗？|1
+Value:
+
+Key: 就去|1
+Value:
+
+Key: 有保险吗|1
+Value:
+
+Key: 不好意思我是做软件开发的|1
+Value:
+
+Key: 我嘎嘎合适|1
+Value:
+
+Key: 你把你的微信二维码给我|1
+Value:
+
+Key: 不要怕|1
+Value:
+
+Key: 我微信有限制不加好友|1
+Value:
+
+Key: 你好，我在应聘设计师|1
+Value:
+
+Key: 站点都在哪呀|1
+Value:
+
+Key: 我不方便打电话|1
+Value:
+
+Key: 派单吗|1
+Value:
+
+Key: 晚高峰|1
+Value:
+
+Key: 9点|1
+Value:
+
+Key: 不不|1
+Value:
+
+Key: 您不是找18周岁的吗|1
+Value:
+
+Key: 不是学生|1
+Value:
+
+Key: 一两天|1
+Value:
+
+Key: 顺义有点儿吗|1
+Value:
+
+Key: 我说的不是干一两天|1
+Value:
+
+Key: 我是说过一两天我能去|1
+Value:
+
+Key: 我也知道18行|1
+Value:
+
+Key: 我一个人|1
+Value:
+
+Key: 要不哥你帮我找个搭伙的？|1
+Value:
+
+Key: 不行有偿找一个帮忙也行|1
+Value:
+
+Key: 能找到吗哥|1
+Value:
+
+Key: 没有小号吗|1
+Value:
+
+Key: 我父母可以帮我实名认证|1
+Value:
+
+Key: 我现在还没考虑送餐的|1
+Value:
+
+Key: 差多了|1
+Value:
+
+Key: 差三年|1
+Value:
+
+Key: 什么店员|1
+Value:
+
+Key: 我回复了|1
+Value:
+
+Key: 我这个个人原因|1
+Value:
+
+Key: 没有骑过电车|1
+Value:
+
+Key: 抱歉目前主要考虑质检方面的工作|1
+Value:
+
+Key: 没有顾虑。在考虑中。|1
+Value:
+
+Key: 说清楚|1
+Value:
+
+Key: 别左右|1
+Value:
+
+Key: 你就说最少多少|1
+Value:
+
+Key: 到不了你们补吗|1
+Value:
+
+Key: 刷kpi的吧|1
+Value:
+
+Key: 你们|1
+Value:
+
+Key: 做过牢可以吗|1
+Value:
+
+Key: 前老板打胳膊打骨折了，做了半个月|1
+Value:
+
+Key: 拘留|1
+Value:
+
+Key: 没发工资|1
+Value:
+
+Key: 持刀入室|1
+Value:
+
+Key: 我们老板承包站点|1
+Value:
+
+Key: 咋这么紧张|1
+Value:
+
+Key: 给我发个不得了|1
+Value:
+
+Key: 扫完了|1
+Value:
+
+Key: 美国大使馆|1
+Value:
+
+Key: 接触过类似的|1
+Value:
+
+Key: 说的条件跟面试的时候根本不一样|1
+Value:
+
+Key: 浪费时间|1
+Value:
+
+Key: 没有，也有一个人找我|1
+Value:
+
+Key: 哈哈，行，我有想法的话我会给你们说|1
+Value:
+
+Key: 目前没有想做美团的想法|1
+Value:
+
+Key: 骑车不咋地|1
+Value:
+
+Key: 没钱去交押金我没电动车🛵|1
+Value:
+
+Key: 随时可以离职|1
+Value:
+
+Key: 出去热|1
+Value:
+
+Key: 晒|1
+Value:
+
+Key: 咱这个可以签毕业生就业协议吗|1
+Value:
+
+Key: 8|1
+Value:
+
+Key: 自己充电？|1
+Value:
+
+Key: 还是换电瓶|1
+Value:
+
+Key: 一般上午有课，下午没课|1
+Value:
+
+Key: 我路痴，而且不敢搁公路骑电动车|1
+Value:
+
+Key: 我是刚刚下火车|1
+Value:
+
+Key: 现在在北京西站|1
+Value:
+
+Key: 工作地点我可以接受。|1
+Value:
+
+Key: 没有那么多单人，太多了|1
+Value:
+
+Key: 嗯嗯现在都干着呢，没有那么多不干|1
+Value:
+
+Key: 嗯嗯所以就不想干了|1
+Value:
+
+Key: 我差一点点就信了|1
+Value:
+
+Key: 一句话概括，必须早出晚归，恶劣天气不能休息|1
+Value:
+
+Key: 我这边单子少|1
+Value:
+
+Key: 没啥顾虑只是不做骑手，不好意思|1
+Value:
+
+Key: 你好没兴趣|1
+Value:
+
+Key: 以前做过|1
+Value:
+
+Key: 我还是静静的看你，工作吧|1
+Value:
+
+Key: 不工作的，我想看你们|1
+Value:
+
+Key: 底薪和超时怎么算|1
+Value:
+
+Key: 健康证要多久|1
+Value:
+
+Key: 您好，我要找会计相关的工作，抱歉啊|1
+Value:
+
+Key: 我在这个西潞园附近|1
+Value:
+
+Key: 先考虑考虑再说吧|1
+Value:
+
+Key: 不想跑骑手夏天有点难受|1
+Value:
+
+Key: 而且我没车|1
+Value:
+
+Key: 你们配车的话有租金，还得买装备|1
+Value:
+
+Key: 我兼职一个月挣不了多少|1
+Value:
+
+Key: 不合适感觉|1
+Value:
+
+Key: 兼职送亏死了，还得付车费|1
+Value:
+
+Key: 好的，我现在考虑考虑|1
+Value:
+
+Key: 没车|1
+Value:
+
+Key: 车子费用方面如何|1
+Value:
+
+Key: 给上保险不|1
+Value:
+
+Key: 先用，多少钱车子费用|1
+Value:
+
+Key: 商业险呀|1
+Value:
+
+Key: 是多少|1
+Value:
+
+Key: 要是有时间的在考虑|1
+Value:
+
+Key: 这么多|1
+Value:
+
+Key: 新人没有做过能跑这些|1
+Value:
+
+Key: 这个行呀|1
+Value:
+
+Key: 你们公司在那个地方|1
+Value:
+
+Key: 我在杜家坎|1
+Value:
+
+Key: 有前科可以吗|1
+Value:
+
+Key: 一年|1
+Value:
+
+Key: 可以还是不可以啊|1
+Value:
+
+Key: 我不找中介|1
+Value:
+
+Key: 你自己开的店？|1
+Value:
+
+Key: 看位置，离得有点远|1
+Value:
+
+Key: 面试位置也远|1
+Value:
+
+Key: 可以考虑看看|1
+Value:
+
+Key: 我的时间段太晚。晚上9:30。|1
+Value:
+
+Key: 可以先留个联系方式，方便后面随时沟通～|1
+Value:
+
+Key: 十七周岁可以入职吗|1
+Value:
+
+Key: 不是，因为有些平台我做不了，征信有问题|1
+Value:
+
+Key: 跑了一年美团了，丰台南站的，月初刚辞职，单子实在是太少了，单价也越来越低|1
+Value:
+
+Key: 你好，找兼职上1休4，地点昌平区北七家附近，有电车，可以加微，不可以勿扰！|1
+Value:
+
+Key: 晚上都可以|1
+Value:
+
+Key: 五点之后|1
+Value:
+
+Key: 是就近站点分配吗|1
+Value:
+
+Key: 送餐还是超市单|1
+Value:
+
+Key: 目前我只考虑工厂工作|1
+Value:
+
+Key: 7k-1w左右吧|1
+Value:
+
+Key: 10小时起步吧以前干这个的|1
+Value:
+
+Key: 恩觉的制造业稳定我社恐不跑单嘿嘿|1
+Value:
+
+Key: 今年送外卖的特别多，能挣那么多吗|1
+Value:
+
+Key: 我们主要配送是啥|1
+Value:
+
+Key: 我们的薪资待遇呢|1
+Value:
+
+Key: 马上了|1
+Value:
+
+Key: 中介的乱七八糟我不想参与|1
+Value:
+
+Key: 现在在人民大学这边|1
+Value:
+
+Key: 我跑过众包，太累了|1
+Value:
+
+Key: 有什么不一样的吗|1
+Value:
+
+Key: 我只想找个小时工|1
+Value:
+
+Key: 不压工资是吧！|1
+Value:
+
+Key: 噢噢在房山区哪里上班呢？|1
+Value:
+
+Key: 是弟弟，对配送员不感兴趣|1
+Value:
+
+Key: 运营类|1
+Value:
+
+Key: 您这到底是效益工资还是小时工？|1
+Value:
+
+Key: 没准备做这方面的工作|1
+Value:
+
+Key: 根本没多少单|1
+Value:
+
+Key: 一个小时30?|1
+Value:
+
+Key: 我i怎么觉得是拿命跑呢|1
+Value:
+
+Key: 我是吕山国。随时等待您的联系！|1
+Value:
+
+Key: 暂时不干全职，谢谢|1
+Value:
+
+Key: 我路吃。不适合这行|1
+Value:
+
+Key: 那不就单量少|1
+Value:
+
+Key: 我考虑好了给你回复可以吧|1
+Value:
+
+Key: 谢谢您，岗位不太适合我。|1
+Value:
+
+Key: 美女|1
+Value:
+
+Key: 考试|1
+Value:
+
+Key: 抱歉，职业不对口|1
+Value:
+
+Key: 您好，但很抱歉我不满18周岁，谢谢|1
+Value:
+
+Key: 可以兼职不|1
+Value:
+
+Key: 这上面联系吧|1
+Value:
+
+Key: 时间都可以，我比较自由|1
+Value:
+
+Key: 打扰了老板，平时工作中比较吃苦耐劳、服务热情。希望您能考虑考虑我|1
+Value:
+
+Key: 我北京人|1
+Value:
+
+Key: 洗碗工包吃包住有没有|1
+Value:
+
+Key: 什么|1
+Value:
+
+Key: 有没有介绍|1
+Value:
+
+Key: 你们是哪个配送公司呀|1
+Value:
+
+Key: 我先了解下！合适的话再加微信吧|1
+Value:
+
+Key: 位置在哪里呢|1
+Value:
+
+Key: 一直从事销售行业|1
+Value:
+
+Key: 现在想转行做金融方面|1
+Value:
+
+Key: 金融投资方面|1
+Value:
+
+Key: 您可以发下微信我加您|1
+Value:
+
+Key: 👌了|1
+Value:
+
+Key: 额……送餐员说实话，不喜欢干|1
+Value:
+
+Key: 不打算|1
+Value:
+
+Key: 没兴趣|1
+Value:
+
+Key: 中介不干|1
+Value:
+
+Key: 日结工资，车子装备住宿不收费的|1
+Value:
+
+Key: 目前没有骑手的想法|1
+Value:
+
+Key: 这一看就是饿了么|1
+Value:
+
+Key: 这是？|1
+Value:
+
+Key: 很像美团饿了么|1
+Value:
+
+Key: 当代·旭辉墅附近有站点吗？|1
+Value:
+
+Key: 没有考虑过外卖这一行业|1
+Value:
+
+Key: 工作相对于稳定一点的|1
+Value:
+
+Key: 判刑|1
+Value:
+
+Key: 不喜欢这个工作|1
+Value:
+
+Key: 新手首月保底8千吗|1
+Value:
+
+Key: 这工作提供车和住宿吗|1
+Value:
+
+Key: 我不去不当配送员|1
+Value:
+
+Key: 我对你们不感兴趣.|1
+Value:
+
+Key: 所以别回了|1
+Value:
+
+Key: 咖啡调酒|1
+Value:
+
+Key: 不是兼职就不用了|1
+Value:
+
+Key: 电动车免费使用的吗？|1
+Value:
+
+Key: 没有健康证，办个证大概多长时间能下来？|1
+Value:
+
+Key: 什么驻店？？？|1
+Value:
+
+Key: 夜班的时间稍微短一点就行|1
+Value:
+
+Key: 我一点不好|1
+Value:
+
+Key: 我现在做闪送，不去你那|1
+Value:
+
+Key: 所以抱歉干不了|1
+Value:
+
+Key: 不用了，有工作了|1
+Value:
+
+Key: 我是在读生，只能找周末兼职|1
+Value:
+
+Key: 要买|1
+Value:
+
+Key: 你也姓耿|1
+Value:
+
+Key: 耿先生|1
+Value:
+
+Key: 骑手月入过万|1
+Value:
+
+Key: 不好挣|1
+Value:
+
+Key: 我朋友也干过|1
+Value:
+
+Key: 前一两年啊|1
+Value:
+
+Key: 啥意思|1
+Value:
+
+Key: 扣钱不|1
+Value:
+
+Key: 我前段点外卖|1
+Value:
+
+Key: 人家都扣了|1
+Value:
+
+Key: 反正个美团上面点的，没有看|1
+Value:
+
+Key: 你是人事部|1
+Value:
+
+Key: 快送|1
+Value:
+
+Key: 应该是|1
+Value:
+
+Key: 我没干过美团骑手|1
+Value:
+
+Key: 我问你骑手不累吗|1
+Value:
+
+Key: 不累是假的|1
+Value:
+
+Key: 想过万|1
+Value:
+
+Key: 每天得12小时|1
+Value:
+
+Key: 也就是过渡而已|1
+Value:
+
+Key: 适合那种缺钱用的人|1
+Value:
+
+Key: 多少钱是多少钱的活|1
+Value:
+
+Key: 这东西看人|1
+Value:
+
+Key: 人各有志|1
+Value:
+
+Key: 你要干啥|1
+Value:
+
+Key: 我怕出车祸|1
+Value:
+
+Key: 你们的Hr就会忽悠人|1
+Value:
+
+Key: 05|1
+Value:
+
+Key: 就还差6个月|1
+Value:
+
+Key: 年龄限制|1
+Value:
+
+Key: 那我没办法|1
+Value:
+
+Key: 姐姐，你看好了我的年龄|1
+Value:
+
+Key: 恩恩，谢谢您，但我现在做这个不太合适|1
+Value:
+
+Key: 16的有活吗|1
+Value:
+
+Key: 你好冯|1
+Value:
+
+Key: 我是你老公|1
+Value:
+
+Key: 交朋友可以哈|1
+Value:
+
+Key: 需要身份证？|1
+Value:
+
+Key: 不知道可以吗|1
+Value:
+
+Key: 13个月|1
+Value:
+
+Key: 今年7月份满17岁|1
+Value:
+
+Key: 没有电动车做不了这个|1
+Value:
+
+Key: 我想每周做几天兼职是不是不太合适|1
+Value:
+
+Key: 可以租公司的吗？|1
+Value:
+
+Key: 租公司的电动多少一天？|1
+Value:
+
+Key: 最少干几个月？|1
+Value:
+
+Key: 北七家这面|1
+Value:
+
+Key: 国家规定的休息日都可以|1
+Value:
+
+Key: 本职工作是按照规定时间放假的|1
+Value:
+
+Key: 我也是人事招聘|1
+Value:
+
+Key: 招保安的想换工作呢|1
+Value:
+
+Key: 电动车月租多少|1
+Value:
+
+Key: 房租和车辆费从工资里扣行不|1
+Value:
+
+Key: 我第一次干这个|1
+Value:
+
+Key: 健康证没得|1
+Value:
+
+Key: 想找个奶茶店或者餐饮之类的|1
+Value:
+
+Key: 大兴区黄村镇这边有岗位吗？|1
+Value:
+
+Key: 上午十点左右可以开始干活下午四五点钟就得下班了|1
+Value:
+
+Key: 您这边有吗|1
+Value:
+
+Key: 您好，我主要是想要兼职，做晚上的|1
+Value:
+
+Key: 我是女的，51岁，可以吗|1
+Value:
+
+Key: 都会，我觉的手机玩的挺好的|1
+Value:
+
+Key: 开车都是看导航|1
+Value:
+
+Key: 骑电动车也骑的不错|1
+Value:
+
+Key: 天通苑东二区|1
+Value:
+
+Key: 你可真是拼了老命了|1
+Value:
+
+Key: 回答我|1
+Value:
+
+Key: 你回答我啊|1
+Value:
+
+Key: 这个hr赚钱吗|1
+Value:
+
+Key: 下午4点半到晚上11点|1
+Value:
+
+Key: 这边我在陕西|1
+Value:
+
+Key: 写错啦姐姐|1
+Value:
+
+Key: 能进同城核心么|1
+Value:
+
+Key: 您好请问是配送员吗？|1
+Value:
+
+Key: 有无责底薪？|1
+Value:
+
+Key: 您这边招门卫保安吗|1
+Value:
+
+Key: 我可不要大夏天配送员|1
+Value:
+
+Key: 热死|1
+Value:
+
+Key: 我知道辛苦|1
+Value:
+
+Key: 我对这行没兴趣|1
+Value:
+
+Key: 不一定非要酒店|1
+Value:
+
+Key: 就要女的|1
+Value:
+
+Key: 乐了也是|1
+Value:
+
+Key: 找着呢|1
+Value:
+
+Key: 您不是配送员的嘛|1
+Value:
+
+Key: 您还有啥招人的工作|1
+Value:
+
+Key: 不认识路|1
+Value:
+
+Key: 我感觉我着不住|1
+Value:
+
+Key: 没有要求|1
+Value:
+
+Key: 我上个月刚不跑饿了么全职|1
+Value:
+
+Key: 科创五街|1
+Value:
+
+Key: 自己租房子|1
+Value:
+
+Key: 刚来北京需要管吃住的工作|1
+Value:
+
+Key: 给你说了暂不考虑你这样子很烦人|1
+Value:
+
+Key: 呵呵不是有啥顾虑干不了，超时投诉太麻烦|1
+Value:
+
+Key: 没做过，也不懂|1
+Value:
+
+Key: 在职！不想给亲戚干了|1
+Value:
+
+Key: 我现在在职就是想换个工作。先了解了解。在做打算。|1
+Value:
+
+Key: 北京西站附近|1
+Value:
+
+Key: 您先别着急。我这一天12小时根本就没有空闲时间。去看。|1
+Value:
+
+Key: 我位置江西|1
+Value:
+
+Key: 不用了吧谢谢，我还是想找个正常班上，现在还在职|1
+Value:
+
+Key: 送餐干不了谢谢|1
+Value:
+
+Key: 现在的客户不好服务，动不动的就投诉，投诉就要扣钱|1
+Value:
+
+Key: 都干，哪个有单干哪个，外加闪送|1
+Value:
+
+Key: 干完了，扣完了也就一个月7/8千|1
+Value:
+
+Key: 我现在在跑滴滴，一天5/6小时也能挣3百左右|1
+Value:
+
+Key: 我自己的电车，每天20多电费|1
+Value:
+
+Key: 干5/6个小时就行了|1
+Value:
+
+Key: 我在你心里|1
+Value:
+
+Key: 东成区|1
+Value:
+
+Key: 目前流浪在东城区，哪都可以去。|1
+Value:
+
+Key: 物资学院路|1
+Value:
+
+Key: 吃饭怎么办|1
+Value:
+
+Key: 我想找个包吃住的工作|1
+Value:
+
+Key: 妹子你为什么这么努力|1
+Value:
+
+Key: 需要健康证的不考虑|1
+Value:
+
+Key: 干了好多年厨师，暂时不考虑其他职业|1
+Value:
+
+Key: 快递不考虑谢谢|1
+Value:
+
+Key: 那是否按照劳动法，签订劳动合同缴纳社保|1
+Value:
+
+Key: 入职多久，签订劳动合同，缴纳社保|1
+Value:
+
+Key: 您好，谢谢您的关注，送餐员我之前没有接触过，所以考虑一下哈，谢谢！|1
+Value:
+
+Key: 打扰了老板，我叫管山星，河南·濮阳人。期盼您的回复|1
+Value:
+
+Key: 请问这个岗位的工作时间是几点到几点？|1
+Value:
+
+Key: 在涿鹿，没在北京|1
+Value:
+
+Key: 酒驾算犯罪吗|1
+Value:
+
+Key: 不知道，判刑了|1
+Value:
+
+Key: 不用租车？住宿免费吗|1
+Value:
+
+Key: 您好北京的暂时不考虑|1
+Value:
+
+Key: 因为我在兰州这边|1
+Value:
+
+Key: 定位错了|1
+Value:
+
+Key: 送迟到了，怕投诉啊？|1
+Value:
+
+Key: 您好美女🌹🌹对不起了哦|1
+Value:
+
+Key: 咱们入职，需要什么做工作的|1
+Value:
+
+Key: 怕找不到地方呢啊？|1
+Value:
+
+Key: 目前在黑龙江|1
+Value:
+
+Key: 没有，深圳|1
+Value:
+
+Key: 加吧|1
+Value:
+
+Key: 谢谢不需要这个|1
+Value:
+
+Key: 在朋友这里，成寿寺|1
+Value:
+
+Key: 每个星期可以预支多少？|1
+Value:
+
+Key: 好，加你了|1
+Value:
+
+Key: 周云飞您好，我叫刘兆宇。看到您的岗位觉得自己非常匹配：1、首先我曾做过有点枯燥但是工资挺高（月入1.5W+客服）相关工作，具备相关工作经验；2、我于聊城职业技术学院的大数据与会计专业大专毕业，拥有岗位相关的专业知识和技能。可否给您发送简历，进一步沟通呢？|1
+Value:
+
+Key: 能打字吗|1
+Value:
+
+Key: 门头沟|1
+Value:
+
+Key: 你说哪个地方就行了|1
+Value:
+
+Key: 你给我走远|1
+Value:
+
+Key: 你自己好吧别来烦我|1
+Value:
+
+Key: 岗位不匹配你干嘛继续来烦我|1
+Value:
+
+Key: 管你什么事|1
+Value:
+
+Key: 你脑子不好使上医院去|1
+Value:
+
+Key: 你真是莫名其妙|1
+Value:
+
+Key: 是你烦人还是我再烦人？|1
+Value:
+
+Key: 都说了不合适干嘛不停发信息过来？|1
+Value:
+
+Key: 赶紧走|1
+Value:
+
+Key: 那你赶紧走吧|1
+Value:
+
+Key: 走|1
+Value:
+
+Key: 骑手养成记！！|1
+Value:
+
+Key: 谁能让你当骑手|1
+Value:
+
+Key: 没有，期望有一天能拯救你|1
+Value:
+
+Key: 你几点才要下班|1
+Value:
+
+Key: 还没有|1
+Value:
+
+Key: 有结束费吗？|1
+Value:
+
+Key: 不说就算了|1
+Value:
+
+Key: 你是调度还是专门招聘的？|1
+Value:
+
+Key: 呵呵|1
+Value:
+
+Key: 真不需要|1
+Value:
+
+Key: 全职工作休息的时候|1
+Value:
+
+Key: 哪个公司的呢|1
+Value:
+
+Key: 上边写着呢|1
+Value:
+
+Key: 高教园区有吗|1
+Value:
+
+Key: 现在不考虑这个，以前干过，|1
+Value:
+
+Key: 现在下班了也跑跑兼职，就干这呢|1
+Value:
+
+Key: 我只做理货员其他的不做|1
+Value:
+
+Key: 6.5打底|1
+Value:
+
+Key: 到哪都一样|1
+Value:
+
+Key: 不想跳了！现在只想赚点钱！|1
+Value:
+
+Key: 跳来跳去一分钱赚不到|1
+Value:
+
+Key: 跑1000单以上9元|1
+Value:
+
+Key: 都差不多了！|1
+Value:
+
+Key: 10天|1
+Value:
+
+Key: 200|1
+Value:
+
+Key: 新人限制单量|1
+Value:
+
+Key: 到这边之前说的新人保底60单呢！|1
+Value:
+
+Key: 已经不信这些了|1
+Value:
+
+Key: 到哪都是坑|1
+Value:
+
+Key: 谢谢！干两个月看看不行就改行了！|1
+Value:
+
+Key: 不想再浪费时间了！|1
+Value:
+
+Key: 我现在只相信我做到，和看到的|1
+Value:
+
+Key: 先过了新人期看看的！|1
+Value:
+
+Key: 单量一直这么低肯定不做的！|1
+Value:
+
+Key: 请问你是哪里的？|1
+Value:
+
+Key: 我在潘家园|1
+Value:
+
+Key: 还得好跑才行啊！|1
+Value:
+
+Key: 毕竟北京路不熟|1
+Value:
+
+Key: 老骑手也有在其他区跑的，普遍反应都不好跑|1
+Value:
+
+Key: 谢谢你的好意！|1
+Value:
+
+Key: 过段时间再说吧！|1
+Value:
+
+Key: 啥叫有免费的|1
+Value:
+
+Key: 瀛海|1
+Value:
+
+Key: 下个月底左右才能过去，这个工作好像不适合我|1
+Value:
+
+Key: 我在沈阳呢|1
+Value:
+
+Key: 东城区香河园|1
+Value:
+
+Key: 我不爱可哪跑怕感染病毒|1
+Value:
+
+Key: 为了生活呀|1
+Value:
+
+Key: 你觉得我合适吗？|1
+Value:
+
+Key: 大兴亦庄|1
+Value:
+
+Key: 北京？|1
+Value:
+
+Key: 不是银川的吗|1
+Value:
+
+Key: 对不起填错了|1
+Value:
+
+Key: 我之前了解过|1
+Value:
+
+Key: 待业|1
+Value:
+
+Key: 烧烤师傅|1
+Value:
+
+Key: 位置不太适合|1
+Value:
+
+Key: 通州区永乐店镇|1
+Value:
+
+Key: 你通过一下|1
+Value:
+
+Key: 我不需要这方面的|1
+Value:
+
+Key: 想找个店员之类的|1
+Value:
+
+Key: 您好张女士，我现在不找工作了！|1
+Value:
+
+Key: 没找到，躺平了|1
+Value:
+
+Key: 俺在顺义嘞|1
+Value:
+
+Key: 次渠|1
+Value:
+
+Key: 在这发呗，在哪面试|1
+Value:
+
+Key: 面试地点吗|1
+Value:
+
+Key: 外卖不就是这两个，派单多吗|1
+Value:
+
+Key: 你发吧，要什么费用，什么要求的|1
+Value:
+
+Key: 哥，有案底，去不了呗|1
+Value:
+
+Key: 你们还查这个吗|1
+Value:
+
+Key: 美团，这么严紧吗|1
+Value:
+
+Key: 记录仪，啥意思|1
+Value:
+
+Key: 是不是美团和饿了，都查这个啊|1
+Value:
+
+Key: 别的能过的，有吗|1
+Value:
+
+Key: 还有啥，可以做的，|1
+Value:
+
+Key: 叮咚吗|1
+Value:
+
+Key: 那是什么啊，买菜|1
+Value:
+
+Key: 加微信太多了，|1
+Value:
+
+Key: 去不了，加了也没用啊|1
+Value:
+
+Key: ***********你加吧，知道你有任务|1
+Value:
+
+Key: 同意了|1
+Value:
+
+Key: 那为什么，有的地能过呢|1
+Value:
+
+Key: 我想先自己专业的工作|1
+Value:
+
+Key: 我腿有残疾，不适合送外卖工作|1
+Value:
+
+Key: 走路时间长腿疼|1
+Value:
+
+Key: 没有就是单纯的不想做骑手|1
+Value:
+
+Key: 除了骑手其他的都可以考虑|1
+Value:
+
+Key: 那就好，一、没有电动车，二、没有健康证，三、周末兼职，四、平时六点钟到十点，五、工资结算日结或周结|1
+Value:
+
+Key: 顺义区后沙峪罗各庄|1
+Value:
+
+Key: 平菇撸各庄|1
+Value:
+
+Key: 平谷有的话就在平菇|1
+Value:
+
+Key: 哈哈哈哈不跟你开玩笑了|1
+Value:
+
+Key: 算了饿不干|1
+Value:
+
+Key: 送外卖都不如我之前干的网约车|1
+Value:
+
+Key: 能不能看到你|1
+Value:
+
+Key: 坏的很|1
+Value:
+
+Key: 你眼睛瞎了是吗|1
+Value:
+
+Key: 与你有关系没|1
+Value:
+
+Key: 挣得少|1
+Value:
+
+Key: 我想找焊工活|1
+Value:
+
+Key: 你好您的工作地点离我太远了|1
+Value:
+
+Key: 送外卖不挣钱啊|1
+Value:
+
+Key: 送啥外卖10块钱|1
+Value:
+
+Key: 暑假结束我还要上学呐|1
+Value:
+
+Key: 真不行啊|1
+Value:
+
+Key: 我暑假没有那么长|1
+Value:
+
+Key: 你好我52周岁了顺义人|1
+Value:
+
+Key: 你这个送外卖我感觉不妥呀，没有电动车|1
+Value:
+
+Key: 餐厅助理|1
+Value:
+
+Key: 我还没有成年|1
+Value:
+
+Key: 在朝阳区请问可以就近面试吗？我看着工作地点好远|1
+Value:
+
+Key: 老板你好！中专学历。方便的话麻烦回复我一下|1
+Value:
+
+Key: 老板你好！我叫豆彩丽，我雷厉风行、不墨迹。希望您能考虑考虑我|1
+Value:
+
+Key: 您好，老板，我很有信心可以胜任急招外卖骑手，可就近分配，高提成这个工作，希望得到您的回复！|1
+Value:
+
+Key: 你怎十二点还不睡|1
+Value:
+
+Key: 你也失眠|1
+Value:
+
+Key: 在顺义，我想问问专送现在的基本待遇|1
+Value:
+
+Key: 可以交个朋友|1
+Value:
+
+Key: 我在保定|1
+Value:
+
+Key: 当天能预支不|1
+Value:
+
+Key: 多久可以|1
+Value:
+
+Key: 这个薪资是周结还是月结|1
+Value:
+
+Key: 能预知吗|1
+Value:
+
+Key: 当天能预支两个星期的吗|1
+Value:
+
+Key: 回头再说|1
+Value:
+
+Key: 能给分配个媳妇嘛，工资就不要了|1
+Value:
+
+Key: 我刚来北京，对位置不熟，可以胜任吗？现在安贞|1
+Value:
+
+Key: 唉！上家公司不给发工资，没办法租车|1
+Value:
+
+Key: 交完房租，没钱了|1
+Value:
+
+Key: 入职手续办了|1
+Value:
+
+Key: 上家公司不给发工资|1
+Value:
+
+Key: 几险几金|1
+Value:
+
+Key: 有想法|1
+Value:
+
+Key: 工资给到位就行|1
+Value:
+
+Key: 我不喜欢送这个行业|1
+Value:
+
+Key: 我去北京干我现在的活，因为张家口工作低|1
+Value:
+
+Key: 工资|1
+Value:
+
+Key: 跟你这差不多|1
+Value:
+
+Key: 你这不按时给送到还要扣钱，就是这点就差远了|1
+Value:
+
+Key: 在马桥|1
+Value:
+
+Key: 还不想介入这个行业|1
+Value:
+
+Key: 我在北京最西边，谢谢，不考虑了|1
+Value:
+
+Key: 朝阳区三元桥那边|1
+Value:
+
+Key: 你有门道？|1
+Value:
+
+Key: 别告诉我不是保安|1
+Value:
+
+Key: 比如说或者销售的|1
+Value:
+
+Key: 我是学汽修专业，这个和我的专业不搭边。|1
+Value:
+
+Key: 我说了，这个和我专业不搭边，我干不了这个|1
+Value:
+
+Key: 别说那么多没用的，你就在这把内容说清楚就好|1
+Value:
+
+Key: 什么形式的|1
+Value:
+
+Key: 什么单这么高|1
+Value:
+
+Key: 是超市专配还是饭店|1
+Value:
+
+Key: 住宿和不住宿有什么说法|1
+Value:
+
+Key: 用你们电车怎么收费|1
+Value:
+
+Key: 住宿不是免费的嘛|1
+Value:
+
+Key: 这是超市专供单的价嘛|1
+Value:
+
+Key: 国贸不算市区嘛|1
+Value:
+
+Key: 超市专供不是专送嘛|1
+Value:
+
+Key: 美团专送是什么意思，可以说详细点嘛|1
+Value:
+
+Key: 那个不是啊，超市专供也是，饭店送餐也是，|1
+Value:
+
+Key: 我怎么现在不是4块多一单嘛|1
+Value:
+
+Key: 不是啊|1
+Value:
+
+Key: 有这个想法|1
+Value:
+
+Key: 公司宿舍|1
+Value:
+
+Key: 头像是你本人？|1
+Value:
+
+Key: 我现在一个月就6千到7千吧|1
+Value:
+
+Key: 感觉你们好辛苦啊|1
+Value:
+
+Key: 有加微信的KPI么？|1
+Value:
+
+Key: 就是没干够也是8000对吧|1
+Value:
+
+Key: 我是做维修的|1
+Value:
+
+Key: 没社保没公积金|1
+Value:
+
+Key: 也没高多少|1
+Value:
+
+Key: 我两个工作也一万多|1
+Value:
+
+Key: 现在没有两个了|1
+Value:
+
+Key: 干一个正职干个兼职|1
+Value:
+
+Key: 正职6000兼职5000|1
+Value:
+
+Key: 是的，在北京。想做兼职，咱这边有什么规定|1
+Value:
+
+Key: 下班以后，晚上的时间。地点不太远都可以。我在西红门地铁站附近。|1
+Value:
+
+Key: 咱这边是要求什么时间|1
+Value:
+
+Key: 晚高峰期是什么时间开始，在介绍上好像没写|1
+Value:
+
+Key: 车辆和服装是配的吗？还是自己提供|1
+Value:
+
+Key: 可以安排什么工作地点|1
+Value:
+
+Key: 我现在离职看了您推发的工作内容不太相符抱歉|1
+Value:
+
+Key: 送餐不安全，没有保险，最近抖音看多了，各个各送餐站点领导，压榨员工。编各种理由压寨员工|1
+Value:
+
+Key: 在职，但时间自由，找兼职|1
+Value:
+
+Key: 你这不是外卖员吗|1
+Value:
+
+Key: 我在众包有兼职|1
+Value:
+
+Key: 这个不方便了吧|1
+Value:
+
+Key: 可是我现在老家|1
+Value:
+
+Key: 在职美女|1
+Value:
+
+Key: 这边待遇太好。不舍得离职美女|1
+Value:
+
+Key: 咋了？美女|1
+Value:
+
+Key: 我想找个兼职姐|1
+Value:
+
+Key: 先不离职了|1
+Value:
+
+Key: 早上11点上班|1
+Value:
+
+Key: 其他时间业务|1
+Value:
+
+Key: 没办法|1
+Value:
+
+Key: 挣钱不容易|1
+Value:
+
+Key: 俺才19岁|1
+Value:
+
+Key: 干的餐饮|1
+Value:
+
+Key: 干了有4年了|1
+Value:
+
+Key: 别整别整|1
+Value:
+
+Key: 不是呢小姐姐|1
+Value:
+
+Key: 哇。小仙女，您是美团还是饿了么|1
+Value:
+
+Key: 挣钱多呗|1
+Value:
+
+Key: 你加我还是我加您呢|1
+Value:
+
+Key: 朝阳王四营附近|1
+Value:
+
+Key: 工作日六点以后，周末两天|1
+Value:
+
+Key: 嗯，有车|1
+Value:
+
+Key: 上一休一的班次|1
+Value:
+
+Key: 我想找灵活|1
+Value:
+
+Key: 我那边有活我就过去干，没活就来这里干|1
+Value:
+
+Key: 化妆品|1
+Value:
+
+Key: 车一个月700|1
+Value:
+
+Key: 我还是出点体力干活吧|1
+Value:
+
+Key: 您那可能不适合我我需要的是一份兼职工作|1
+Value:
+
+Key: 您好，我叫郭鹏，在顺丰大小中转场工作七年，五年管理经验！负责的指标，总是程改善趋势！现场运营管理较强，安全事故为0！降本增效显著！人才搭建完美体系！思路清晰，认真负责！我得劣势为学历高中，电脑软件需要学习！希望找一份适合我的管理层职位|1
+Value:
+
+Key: 姚家园这边|1
+Value:
+
+Key: 不太想做送餐，感谢你的关注|1
+Value:
+
+Key: 抱歉！我需要北京社保对接谢谢您|1
+Value:
+
+Key: 去年闪送腿断了，不跑外卖了|1
+Value:
+
+Key: 什么快递|1
+Value:
+
+Key: 要离开了|1
+Value:
+
+Key: 生活不下去了|1
+Value:
+
+Key: 消费太高|1
+Value:
+
+Key: 没有合适的工作|1
+Value:
+
+Key: 我已经准备坐火车了，准备回家了|1
+Value:
+
+Key: 我想问一下|1
+Value:
+
+Key: 咱们每单大概是多远|1
+Value:
+
+Key: 是自己接单还是固定配送|1
+Value:
+
+Key: ]谢谢，想找个机械类的工作|1
+Value:
+
+Key: 没顾虑|1
+Value:
+
+Key: 谢谢，不太合适|1
+Value:
+
+Key: 什么骑手|1
+Value:
+
+Key: 我自行车都不会|1
+Value:
+
+Key: 不是很确定，没事的话白天晚上都可以|1
+Value:
+
+Key: 我是弹性工作|1
+Value:
+
+Key: 自己没车|1
+Value:
+
+Key: 不包吃住！都不考虑|1
+Value:
+
+Key: 去了就能立即上岗嘛|1
+Value:
+
+Key: 还没想好，|1
+Value:
+
+Key: 我想找一个夜班能玩手机的|1
+Value:
+
+Key: 我只找厨师|1
+Value:
+
+Key: 可我是废物做不了这种工作呢|1
+Value:
+
+Key: 在北京望京北路这里|1
+Value:
+
+Key: 北京社保|1
+Value:
+
+Key: 过渡什么呢|1
+Value:
+
+Key: 青春，时间，顺丰快递与京东快递都有五险一金|1
+Value:
+
+Key: 不好意思不找了|1
+Value:
+
+Key: 我本来就有白天没事干看看有没有兼职还是算了|1
+Value:
+
+Key: 你要想加微信交朋友也可以加|1
+Value:
+
+Key: 工作就先不看了|1
+Value:
+
+Key: 没声音啊|1
+Value:
+
+Key: 我目前在职考虑去北京工作，但是考虑到吃住问题|1
+Value:
+
+Key: 每个月多少钱|1
+Value:
+
+Key: 准备回去|1
+Value:
+
+Key: 就这几天|1
+Value:
+
+Key: 白天|1
+Value:
+
+Key: 上午九点到下午4点，因为我有孩子接送|1
+Value:
+
+Key: 具体是做什么，直播吗|1
+Value:
+
+Key: 北京顺义区北务镇|1
+Value:
+
+Key: 好的谢谢美女|1
+Value:
+
+Key: 你好！我不会说话，你还招保安吗？|1
+Value:
+
+Key: 你好，我想要做晚上和中午的兼职，在望京或者来广营这里可以么？|1
+Value:
+
+Key: 老板打扰一下期盼您的回复|1
+Value:
+
+Key: 一天20多个让我干骑手的|1
+Value:
+
+Key: 烦不烦|1
+Value:
+
+Key: 你们疯了|1
+Value:
+
+Key: 老了干不动了|1
+Value:
+
+Key: 石家庄店里|1
+Value:
+
+Key: 昨天转让了|1
+Value:
+
+Key: 心情不好，全心投入进去了|1
+Value:
+
+Key: 什么配送|1
+Value:
+
+Key: 没看见呀|1
+Value:
+
+Key: 加我手机号|1
+Value:
+
+Key: 不好意思，我暂时不考虑该工作，谢谢，美女|1
+Value:
+
+Key: 不会耶|1
+Value:
+
+Key: 还没到北京，在去北京的路上|1
+Value:
+
+Key: 可能得晚上了吧，|1
+Value:
+
+Key: 您这个我就不考虑了，送外卖我都做兼职，不做全职，我得上正常班，还要缴纳五险一金呢，所以谢谢您了，张总|1
+Value:
+
+Key: 有完嘛|1
+Value:
+
+Key: 不好意思暂时对外卖不感兴趣|1
+Value:
+
+Key: 没有之前一直做餐饮了|1
+Value:
+
+Key: 不用了姐姐就算了解了我也有可能不去还得耽误你工作|1
+Value:
+
+Key: 我在望京|1
+Value:
+
+Key: 我想问一下，贵公司这边什么时候可以入职|1
+Value:
+
+Key: 不送|1
+Value:
+
+Key: 你咋不去送|1
+Value:
+
+Key: 我也有工作，我为啥要去送|1
+Value:
+
+Key: 骑驴找马懂吗你|1
+Value:
+
+Key: 你自己都不愿意去送，你让我去送，你是何居心|1
+Value:
+
+Key: 等你去送了，我再去送|1
+Value:
+
+Key: 我想找裱花学徒|1
+Value:
+
+Key: 今天提的离职|1
+Value:
+
+Key: 没车子啊，在北京天通苑|1
+Value:
+
+Key: 闲的没事干|1
+Value:
+
+Key: 没有顾虑，我有职业技能|1
+Value:
+
+Key: 如果您有适合我职业技能的工作可以联系我|1
+Value:
+
+Key: 因为被车撞过|1
+Value:
+
+Key: 对就是做配送被幢过|1
+Value:
+
+Key: 行吧实在不想做感谢你的介绍时间与沟通|1
+Value:
+
+Key: 我干的快递是分练员|1
+Value:
+
+Key: 不是送货的|1
+Value:
+
+Key: 你这是什么公司？|1
+Value:
+
+Key: 不属于美团和饿了吧|1
+Value:
+
+Key: 那你发过来我看看|1
+Value:
+
+Key: 在一个我21别叫哥行不|1
+Value:
+
+Key: W***********|1
+Value:
+
+Key: 平谷区有吗|1
+Value:
+
+Key: 霍营|1
+Value:
+
+Key: 您好，我想知道什么时候可以工作|1
+Value:
+
+Key: 这个是我微信|1
+Value:
+
+Key: 你个中介有什么信任的|1
+Value:
+
+Key: 。。。不在考虑范围谢谢您|1
+Value:
+
+Key: 小姐姐，我已经明确说出来我的意思，不合适，你一直追问是怎么一回事呢？|1
+Value:
+
+Key: 可以的话需要提供|1
+Value:
+
+Key: 哈喽|1
+Value:
+
+Key: 你可以别做文员了回信息是真慢人都跑了|1
+Value:
+
+Key: 在聊城，打算过几天过去|1
+Value:
+
+Key: 徽信号|1
+Value:
+
+Key: 干不了这个工|1
+Value:
+
+Key: 做|1
+Value:
+
+Key: 不太行就别打扰我了谢谢|1
+Value:
+
+Key: 我就是最近有空|1
+Value:
+
+Key: 我每天下午两点以后有时间，周六周日全天都可以|1
+Value:
+
+Key: 找到合适的下家就离职|1
+Value:
+
+Key: 我干烧烤的|1
+Value:
+
+Key: 你让我回什么|1
+Value:
+
+Key: 回你。cp啊|1
+Value:
+
+Key: 望京旺角|1
+Value:
+
+Key: 去的时候找你|1
+Value:
+
+Key: 本人没有电动车。|1
+Value:
+
+Key: 西红门地铁站旁|1
+Value:
+
+Key: 你工资多少你去干这也行|1
+Value:
+
+Key: 管吃管住，公休4天|1
+Value:
+
+Key: 月薪7500|1
+Value:
+
+Key: 你的活真不适合我|1
+Value:
+
+Key: 我有不好的记录，不知道能不能行?|1
+Value:
+
+Key: 7年前的，有记录。|1
+Value:
+
+Key: 没事，能理解。|1
+Value:
+
+Key: 客气了，考虑，能介绍一下吗？|1
+Value:
+
+Key: 现在没有计划|1
+Value:
+
+Key: 我上午十点之前和晚上十点之后有时间，你那边可以做兼职吗？我没车，能看懂智能手机导航，我在石景山区万达广场附近，也只能是这附近的区域工作，若是需要请联系我|1
+Value:
+
+Key: 目前不想做这个行业没有什么顾虑|1
+Value:
+
+Key: 看了一下招聘信息，咱家不适合|1
+Value:
+
+Key: 咱家要求五点|1
+Value:
+
+Key: 下个月|1
+Value:
+
+Key: 我驾考去|1
+Value:
+
+Key: 我有工作在保定，离职还没到时间|1
+Value:
+
+Key: 6.1|1
+Value:
+
+Key: 我是一名聋人，你那边要吗人？|1
+Value:
+
+Key: 我这简历不是写着？听力障碍|1
+Value:
+
+Key: 有物业维修工的工作吗？|1
+Value:
+
+Key: 你好，我找维修工的工作。|1
+Value:
+
+Key: 我找维修工的工作，你要让我去送外卖。你可以呀|1
+Value:
+
+Key: 说的好像也没毛病。|1
+Value:
+
+Key: 你说的很对，但是我还得要找维修工的工作。|1
+Value:
+
+Key: 你不是代招吗？其他的工作你不招吗？|1
+Value:
+
+Key: 下回你的业务应该再扩展一下。|1
+Value:
+
+Key: 你也够敬业的，五一劳动节都快12点了，晚上还招人呢？我是老板，我得给你加钱。|1
+Value:
+
+Key: 已读不回信息是什么意思啊？|1
+Value:
+
+Key: 早点休息吧，有机会再聊。|1
+Value:
+
+Key: 姐姐，主要我从来没做过这个，根本不奢望挣钱|1
+Value:
+
+Key: 人才|1
+Value:
+
+Key: 历下区|1
+Value:
+
+Key: 我在门头沟区|1
+Value:
+
+Key: 可以给我点钱吗|1
+Value:
+
+Key: 没有腿骑不了电动车|1
+Value:
+
+Key: 顺义南法信|1
+Value:
+
+Key: 抱歉，现在想锻炼一下自己，配送以前做过，对自己能力没什么提升|1
+Value:
+
+Key: 你自己去送，我来按排你入职|1
+Value:
+
+Key: 对送餐员岗位不太有意向，谢谢您的关注|1
+Value:
+
+Key: 暂时住在通州这边|1
+Value:
+
+Key: 我做的是餐饮|1
+Value:
+
+Key: 霓虹|1
+Value:
+
+Key: 说了不做外卖，您是听不明白吗？谢谢|1
+Value:
+
+Key: 昂|1
+Value:
+
+Key: 不出意外应该在你心里|1
+Value:
+
+Key: 聊聊生人不好吗|1
+Value:
+
+Key: 现在没考虑做这个工作，不好意思啊|1
+Value:
+
+Key: 祝你早日找到更好的|1
+Value:
+
+Key: 我没有做过外卖，我是做仓储的。|1
+Value:
+
+Key: 怀柔|1
+Value:
+
+Key: 我干餐饮管理的跑外卖|1
+Value:
+
+Key: 一金|1
+Value:
+
+Key: 不好意思我优先找厨房的工作抱歉|1
+Value:
+
+Key: 先不考虑了抱歉|1
+Value:
+
+Key: 今天就可以上班|1
+Value:
+
+Key: 不会吧|1
+Value:
+
+Key: 都得先花钱租|1
+Value:
+
+Key: 都是这样|1
+Value:
+
+Key: 气死我了|1
+Value:
+
+Key: 大兴西红门|1
+Value:
+
+Key: 工作时间|1
+Value:
+
+Key: 想要休息|1
+Value:
+
+Key: 不好录|1
+Value:
+
+Key: 担心你|1
+Value:
+
+Key: 北小营|1
+Value:
+
+Key: 你好，给上五险一金吗|1
+Value:
+
+Key: 上社保五险一金吗|1
+Value:
+
+Key: 工种不一样|1
+Value:
+
+Key: 还没现在挣得多|1
+Value:
+
+Key: 您好我不适合骑车|1
+Value:
+
+Key: 包吃住有五险一金的具体在哪无所谓|1
+Value:
+
+Key: 还要买车吗|1
+Value:
+
+Key: 算了我真不会骑车|1
+Value:
+
+Key: 谢谢这个不感兴趣|1
+Value:
+
+Key: 车每个月要自己掏钱房租每个月要自己掏钱过来干嘛找一个包吃包住不香吗|1
+Value:
+
+Key: 我回家取车来了，五一过后我骑行去北京|1
+Value:
+
+Key: 辽宁|1
+Value:
+
+Key: 朝阳凌源|1
+Value:
+
+Key: 我老家到北京就三百多公里|1
+Value:
+
+Key: 还是在这聊一聊吧|1
+Value:
+
+Key: 怎么不方便了|1
+Value:
+
+Key: 干过一礼拜，不合适，谢谢|1
+Value:
+
+Key: 我想干兼职晚上十一点以后的，在东三旗附近|1
+Value:
+
+Key: 五一以后离职|1
+Value:
+
+Key: 因为我这个人只做日结的。|1
+Value:
+
+Key: 拿到手里才叫保险。|1
+Value:
+
+Key: 怎么能直接说名字呢|1
+Value:
+
+Key: 是对每个人都这么说吧|1
+Value:
+
+Key: 先不跟你说了我在找工作|1
+Value:
+
+Key: 我不在北京前面定位错了|1
+Value:
+
+Key: 杭州勒|1
+Value:
+
+Key: 那你这。。。。|1
+Value:
+
+Key: 有点敬业|1
+Value:
+
+Key: 昂哈哈哈哈哈广钓鱼嘛小姐姐|1
+Value:
+
+Key: vx加不了好友暂时|1
+Value:
+
+Key: 过两天加你～|1
+Value:
+
+Key: 不做|1
+Value:
+
+Key: 不做没技术的活|1
+Value:
+
+Key: 你可拉倒吧|1
+Value:
+
+Key: 不带你这样的|1
+Value:
+
+Key: 餐饮，服务员|1
+Value:
+
+Key: 管吃就行，我自己租的房子|1
+Value:
+
+Key: 海淀区四季青镇西平庄|1
+Value:
+
+Key: 不需要哈|1
+Value:
+
+Key: 不找第三方哈|1
+Value:
+
+Key: 朝阳定福庄|1
+Value:
+
+Key: 我在看有适合我的|1
+Value:
+
+Key: 您好是东坝那边吗|1
+Value:
+
+Key: 朝阳国贸|1
+Value:
+
+Key: 朝阳区慈云寺附近|1
+Value:
+
+Key: 东五环南花园村|1
+Value:
+
+Key: 看看附近有没有|1
+Value:
+
+Key: 我需要那种给上保险的|1
+Value:
+
+Key: 张老师您好，我想要先找个本职工作，就是电工，外卖我只能稍后考虑做副业了，等几天以后我工作定好以后我和您联系吧，感谢邀请|1
+Value:
+
+Key: 不上班跑一天，|1
+Value:
+
+Key: 下班后再跑|1
+Value:
+
+Key: 还不睡觉|1
+Value:
+
+Key: 鱼，你好|1
+Value:
+
+Key: 我在钓鱼|1
+Value:
+
+Key: 你认识雯雯姐吗|1
+Value:
+
+Key: 今天能到三百|1
+Value:
+
+Key: 主要想的就是今天能不能预支点工资到三百了站长那边行不通|1
+Value:
+
+Key: 估计不行了唉|1
+Value:
+
+Key: 前几天跟站长说了这个月不预支了唉事实赶不上变化啊|1
+Value:
+
+Key: 唉|1
+Value:
+
+Key: 不是我微信用不了啦联系不到雯雯姐所以在这上面联系一下。看看有没有什么办法唉|1
+Value:
+
+Key: 没什么事，就是不喜欢。。。。|1
+Value:
+
+Key: 打扰了，|1
+Value:
+
+Key: 您好我能下班后干吗？|1
+Value:
+
+Key: 17点到24点可以吗|1
+Value:
+
+Key: 有自行车🚲|1
+Value:
+
+Key: 顺义，医疗器械行业|1
+Value:
+
+Key: 没事顾虑，不在职业规划方向之内|1
+Value:
+
+Key: 现在不想拼了，找个轻松的工作，比如看看监控，值值班这样的|1
+Value:
+
+Key: 站岗的肯定干不了，只能室内坐着的工作|1
+Value:
+
+Key: 现在能有啥好工作，不都是凑合么|1
+Value:
+
+Key: 晚安了，明天再看工作了|1
+Value:
+
+Key: 我做过送餐员了，现在只是想找一个比较稳定的工作，送餐员没有发展前途。而且整天风吹日晒的，干不动了|1
+Value:
+
+Key: 别打扰我了|1
+Value:
+
+Key: 你特么缺不缺德啊|1
+Value:
+
+Key: 现在还坑人|1
+Value:
+
+Key: 北京的外卖员都挣多少钱你不知道啊|1
+Value:
+
+Key: 你下单子啊|1
+Value:
+
+Key: 因为你太美|1
+Value:
+
+Key: 我城市陌生，有顾虑|1
+Value:
+
+Key: 我不去北京你啥时候来蒙古|1
+Value:
+
+Key: 我在沧州市|1
+Value:
+
+Key: 泊头|1
+Value:
+
+Key: 姐不需要住宿舍|1
+Value:
+
+Key: 您好，找到工作了吗，咱们是美团站点直招送餐员，站点当天面试就可安排住宿，入职无押金0费用，假节日礼品奖励丰厚，晋升空间快，门槛低，车住宿均可提供，系统派单，配送区域近，月薪资综合8000-15000，考虑一下么~|1
+Value:
+
+Key: 为难十八可以吗|1
+Value:
+
+Key: 我走路有点拐可以吗|1
+Value:
+
+Key: 等会儿|1
+Value:
+
+Key: 你们是啥工厂|1
+Value:
+
+Key: 17行不|1
+Value:
+
+Key: 昌平马池口|1
+Value:
+
+Key: 能在密云这边吗|1
+Value:
+
+Key: 不考虑那边|1
+Value:
+
+Key: 您好，我叫刘小宾来自山西·临汾，性格方面比较团队意识、善于沟通。方便的话麻烦回复我一下|1
+Value:
+
+Key: 我先考虑一下，现在还没有放假|1
+Value:
+
+Key: 不干美团|1
+Value:
+
+Key: 我想做饿了么骑手|1
+Value:
+
+Key: 现在住的地方比较远、不怎么方便|1
+Value:
+
+Key: 他说我回去办下健康证|1
+Value:
+
+Key: 不是文字游戏吧|1
+Value:
+
+Key: 骗怕了|1
+Value:
+
+Key: 我得谨慎|1
+Value:
+
+Key: 你说的是什么职位，我是女的用吗？|1
+Value:
+
+Key: 16周|1
+Value:
+
+Key: 我现在不方便|1
+Value:
+
+Key: 小时工可以嘛|1
+Value:
+
+Key: 我在燕丹村附近有嘛|1
+Value:
+
+Key: 不行那就|1
+Value:
+
+Key: 不用了谢谢，这个工作有可能真不社会我|1
+Value:
+
+Key: 我回了，不适合我谢谢你|1
+Value:
+
+Key: 不需要了，谢谢你，我干过了一段时间外卖小哥，感觉不太适合谢谢你|1
+Value:
+
+Key: 我怎么知道|1
+Value:
+
+Key: 是离职，不合适我做|1
+Value:
+
+Key: 没有五险一金。|1
+Value:
+
+Key: 有单人宿舍吗？|1
+Value:
+
+Key: 工作是八小时吗？是早八晚五吗？或者是早九晚晚六？|1
+Value:
+
+Key: 你说为什么有顾虑？|1
+Value:
+
+Key: 回答我为什么？|1
+Value:
+
+Key: 每个人呢都不一样，条件选择也不一样。|1
+Value:
+
+Key: 回宁波的高铁上|1
+Value:
+
+Key: 北京不好混啊|1
+Value:
+
+Key: 此话怎讲|1
+Value:
+
+Key: 我有工作经验|1
+Value:
+
+Key: 我这个人怎么说呢|1
+Value:
+
+Key: 不愿意颓废|1
+Value:
+
+Key: 我住在东直门附近，附近有没有站点？您是什么平台的外卖公司？上班时间有没有要求？每日送单量有没有要求？|1
+Value:
+
+Key: 十六要吗|1
+Value:
+
+Key: 能吃苦|1
+Value:
+
+Key: 你别他妈麻烦我|1
+Value:
+
+Key: 供住，工资待遇高|1
+Value:
+
+Key: 我哦|1
+Value:
+
+Key: 求职|1
+Value:
+
+Key: 这两天刚找到|1
+Value:
+
+Key: 我不是大学生啊|1
+Value:
+
+Key: 1个|1
+Value:
+
+Key: 喜欢看你工作|1
+Value:
+
+Key: 你烦不烦？|1
+Value:
+
+Key: 脑子有问题别当人事了|1
+Value:
+
+Key: 你外星球的？|1
+Value:
+
+Key: 听不懂人话？|1
+Value:
+
+Key: 额，随意看看还没定好去不去北京|1
+Value:
+
+Key: 我05的|1
+Value:
+
+Key: 差2月18|1
+Value:
+
+Key: 8月1|1
+Value:
+
+Key: 不要提成，可干开底薪一万，包吃住，能长期踏实干！|1
+Value:
+
+Key: 发工资太晚了。。|1
+Value:
+
+Key: 4号？|1
+Value:
+
+Key: 月休|1
+Value:
+
+Key: 呃，不考虑了，谢谢哈。。|1
+Value:
+
+Key: 服务员传菜员|1
+Value:
+
+Key: 对我来说骑电动车不安全|1
+Value:
+
+Key: 我假期工。。|1
+Value:
+
+Key: 不是长期|1
+Value:
+
+Key: 我是受不了遇到那种无语的人。|1
+Value:
+
+Key: 如果超时一分钟就给你差评。|1
+Value:
+
+Key: 一个差评10块钱。|1
+Value:
+
+Key: 不扣？|1
+Value:
+
+Key: 改了？|1
+Value:
+
+Key: 为什么不能提前送到？|1
+Value:
+
+Key: 找到更合适了|1
+Value:
+
+Key: 有车吗|1
+Value:
+
+Key: 我也魔方|1
+Value:
+
+Key: 找到|1
+Value:
+
+Key: 方便|1
+Value:
+
+Key: 昨天刚辞职|1
+Value:
+
+Key: 这个真干不了|1
+Value:
+
+Key: 没干过这个，对北京也不熟悉|1
+Value:
+
+Key: 你好老板，我是都军。能否给个沟通机会呀？|1
+Value:
+
+Key: 送餐我不做，我路线安排不好，估计都不够投诉的|1
+Value:
+
+Key: 我想乔恩那里|1
+Value:
+
+Key: Hello|1
+Value:
+
+Key: yes|1
+Value:
+
+Key: 谢谢，暂时不找了，我这边上班了|1
+Value:
+
+Key: 物流仓储|1
+Value:
+
+Key: 通州于家务|1
+Value:
+
+Key: 是快递公司吗|1
+Value:
+
+Key: 您好没满十八可以来咱这工作吗|1
+Value:
+
+Key: 本人在海淀区永泰庄地铁站这边|1
+Value:
+
+Key: 附近有合适的上班地点么|1
+Value:
+
+Key: 怀柔有吗|1
+Value:
+
+Key: 你们是做什么？|1
+Value:
+
+Key: 每天保底能有多少|1
+Value:
+
+Key: 不考虑，我刚才京东站点脱离出来|1
+Value:
+
+Key: 不是我之前是在京东超市站点所以我知道你们的套路|1
+Value:
+
+Key: 我在昌平霍营而且我没有电动车|1
+Value:
+
+Key: 可以，地址发给我一下|1
+Value:
+
+Key: 如果离得近的话就不需要住宿|1
+Value:
+
+Key: 骑士工作不熟练|1
+Value:
+
+Key: 不啦，找一个对口的|1
+Value:
+
+Key: 对的，计算机专业的|1
+Value:
+
+Key: 哈哈哈，真巧|1
+Value:
+
+Key: 不过加了好友，岗位也不对口啊|1
+Value:
+
+Key: 你好，请问需要健康证吗|1
+Value:
+
+Key: 我没想过外卖员|1
+Value:
+
+Key: 我找的是兼职，我只能周六日节假日，下班也行，干到打样|1
+Value:
+
+Key: 您好这个怀柔区也行吗|1
+Value:
+
+Key: 房山区，不用住宿|1
+Value:
+
+Key: 做不了全职|1
+Value:
+
+Key: 时间不够做全职，不太适合这个|1
+Value:
+
+Key: 每天时间不定，主职有加班|1
+Value:
+
+Key: 11月|1
+Value:
+
+Key: 我未成年大哥|1
+Value:
+
+Key: 唉，我现在还在干外卖呢，你应该了解吧😄|1
+Value:
+
+Key: 你有别的工作嘛！|1
+Value:
+
+Key: 能不能现实点不用网图|1
+Value:
+
+Key: 刚到北京不熟悉路线可以做吗|1
+Value:
+
+Key: 吃住怎么解决|1
+Value:
+
+Key: 对不起，我不想做骑手工作|1
+Value:
+
+Key: 想做暑假工，过段时间就开学了|1
+Value:
+
+Key: 算了，还是不做骑手了|1
+Value:
+
+Key: 暂时不需要，我就找个兼职，谢谢|1
+Value:
+
+Key: 您的电话已关机|1
+Value:
+
+Key: 156|1
+Value:
+
+Key: 3243|1
+Value:
+
+Key: 我找司机工作|1
+Value:
+
+Key: 比找媳妇快|1
+Value:
+
+Key: 税后八千以上|1
+Value:
+
+Key: 嗯嗯，我也这么觉得|1
+Value:
+
+Key: 不行我去抱个大腿啥的|1
+Value:
+
+Key: 我都要去抱大腿了你还拉着我上班|1
+Value:
+
+Key: 不行，腿短，踩油门正好，刷地球有点费劲|1
+Value:
+
+Key: 哥哥姐姐求放过，我还小|1
+Value:
+
+Key: 一会你下个单我给你送一趟|1
+Value:
+
+Key: 你这边还有别的行业？|1
+Value:
+
+Key: 骑车技术不行，路况也不熟|1
+Value:
+
+Key: 具体在哪块|1
+Value:
+
+Key: 之前干过适应不了|1
+Value:
+
+Key: 密云区有吗|1
+Value:
+
+Key: 别的区不去，家密云区|1
+Value:
+
+Key: 你们坐办公室的领导好，我们下苦的底层人不好|1
+Value:
+
+Key: 12月成年|1
+Value:
+
+Key: 没驾照|1
+Value:
+
+Key: 超龄了，58岁，|1
+Value:
+
+Key: 你这不是中介公司吗|1
+Value:
+
+Key: 电子厂|1
+Value:
+
+Key: 底薪是什么意思|1
+Value:
+
+Key: 底薪是什么要求等等|1
+Value:
+
+Key: 你好61岁要吗|1
+Value:
+
+Key: 我姨夫61岁要吗，|1
+Value:
+
+Key: 如果可以吗我们跟上去长期的|1
+Value:
+
+Key: 你好我是听障人就可以招聘吗？|1
+Value:
+
+Key: 你们这工作有什么任务吗|1
+Value:
+
+Key: 一天要上几个小时？|1
+Value:
+
+Key: 那个区|1
+Value:
+
+Key: 我今天才去问了6.2一单|1
+Value:
+
+Key: 700单保底4600|1
+Value:
+
+Key: 美t|1
+Value:
+
+Key: 我直接去副站面试的|1
+Value:
+
+Key: 什么商没懂|1
+Value:
+
+Key: 不好意思，有前科，没法入职|1
+Value:
+
+Key: 以前做过感觉是做不来|1
+Value:
+
+Key: 美团累成狗了也没挣几块钱真不适合|1
+Value:
+
+Key: 你好，可以聊聊么|1
+Value:
+
+Key: 有住宿吗|1
+Value:
+
+Key: 都是免费的吗|1
+Value:
+
+Key: 是心虚嘛|1
+Value:
+
+Key: 就知道他们不说|1
+Value:
+
+Key: 我感觉你们是不是心虚|1
+Value:
+
+Key: 不敢实话实说|1
+Value:
+
+Key: 你这骗人的吧|1
+Value:
+
+Key: 我之前也是饿了嘛|1
+Value:
+
+Key: 4块一单|1
+Value:
+
+Key: 一个月给我算4块|1
+Value:
+
+Key: 每一单|1
+Value:
+
+Key: 四块|1
+Value:
+
+Key: 不得交个700块钱|1
+Value:
+
+Key: 他说起码要干两个月以上才是正常单价结算|1
+Value:
+
+Key: 之前那个人跟我说的|1
+Value:
+
+Key: 我看上面写着代招|1
+Value:
+
+Key: 那这个代招是啥呀|1
+Value:
+
+Key: 面试吧明天|1
+Value:
+
+Key: 微信来|1
+Value:
+
+Key: 大家好|1
+Value:
+
+Key: 去北京的路费可以给报销了吗|1
+Value:
+
+Key: 哦住宿几个人？|1
+Value:
+
+Key: 呢我去了可以安排2人间吗|1
+Value:
+
+Key: 十一点前|1
+Value:
+
+Key: 七点|1
+Value:
+
+Key: 西城区|1
+Value:
+
+Key: 没啊|1
+Value:
+
+Key: 想着晚上出去|1
+Value:
+
+Key: 需要兼职不合适谢谢|1
+Value:
+
+Key: 在说的吧。|1
+Value:
+
+Key: 美团不去,谢谢|1
+Value:
+
+Key: 谁要找你了？|1
+Value:
+
+Key: 你的送，我地方不熟|1
+Value:
+
+Key: 第一次来|1
+Value:
+
+Key: 这么高|1
+Value:
+
+Key: 大哥我想想告诉你|1
+Value:
+
+Key: 主要不熟悉，第一次来|1
+Value:
+
+Key: 想想噶|1
+Value:
+
+Key: 我想好了告诉你|1
+Value:
+
+Key: 4个|1
+Value:
+
+Key: 就我可以|1
+Value:
+
+Key: 两个女生，还有一个我一起的。|1
+Value:
+
+Key: 这个可以，就是我害怕就给你送错了，。|1
+Value:
+
+Key: 送外卖送了两年了|1
+Value:
+
+Key: 看到这些，我都感觉一眼假|1
+Value:
+
+Key: 可是我现在好迷茫，不知道做点什么|1
+Value:
+
+Key: 可现在选择行业太重要了|1
+Value:
+
+Key: 你说20岁出头做点什么好呢|1
+Value:
+
+Key: 指点指点呀|1
+Value:
+
+Key: 当时有机会，但是工资好低|1
+Value:
+
+Key: 说实话，现在很后悔|1
+Value:
+
+Key: 但是有个机会可以做美团站点助理.没有选择别人选择了现在人家是战长|1
+Value:
+
+Key: 但是我还什么也不是|1
+Value:
+
+Key: 对呀，但是现在的路太难走了|1
+Value:
+
+Key: 现在一月6000多的工资，|1
+Value:
+
+Key: 让我一点动力也没有|1
+Value:
+
+Key: 包四天公休|1
+Value:
+
+Key: 在鼓楼店|1
+Value:
+
+Key: 做配菜|1
+Value:
+
+Key: 您现在这个工作还好吗？|1
+Value:
+
+Key: 所以很不想坚持，本来今天晚上就想辞职的|1
+Value:
+
+Key: 有想法有心力不足呀|1
+Value:
+
+Key: 大家都挺辛苦的|1
+Value:
+
+Key: 太多的东西都机械化了|1
+Value:
+
+Key: 谢谢你能陪我聊一聊现在的近况|1
+Value:
+
+Key: 您说的管理层是哪个方面|1
+Value:
+
+Key: 您那能给机会吗？|1
+Value:
+
+Key: 就像您现在这种岗位一个月可以拿到多少呀|1
+Value:
+
+Key: 总要有个七八千吧|1
+Value:
+
+Key: 晚安|1
+Value:
+
+Key: 模特短视频直播带货|1
+Value:
+
+Key: 不考虑骑手了自身有一百六十多万粉丝在找合适的|1
+Value:
+
+Key: 不好意思我只找兼职抱歉|1
+Value:
+
+Key: Q3387828292|1
+Value:
+
+Key: ********微信-加微团或者饿了么备注好|1
+Value:
+
+Key: 公司距离有点远，我就不考虑了|1
+Value:
+
+Key: 都行，你那个平台的招|1
+Value:
+
+Key: 咱们哪里签合同么|1
+Value:
+
+Key: 最少多久|1
+Value:
+
+Key: 我是说如果，提前离职，会不会扣钱|1
+Value:
+
+Key: 责任底薪是多少单|1
+Value:
+
+Key: 东坝这边有点位吗|1
+Value:
+
+Key: 计件算薪资是吗？还是底薪加提成|1
+Value:
+
+Key: 希望得到贵公司的垂青，感谢！|1
+Value:
+
+Key: 闪送吗？|1
+Value:
+
+Key: 你们除了招配送还招啥|1
+Value:
+
+Key: 暂不考虑配送岗|1
+Value:
+
+Key: 身份证上是16周|1
+Value:
+
+Key: 准备入行，没有相关经验，从o开始|1
+Value:
+
+Key: 太难了|1
+Value:
+
+Key: 太累|1
+Value:
+
+Key: 我身边人就干这个，我太懂了|1
+Value:
+
+Key: 我想找送外卖的活|1
+Value:
+
+Key: 主要太麻烦了|1
+Value:
+
+Key: 不要工资，一天管三顿饭就行|1
+Value:
+
+Key: 不早说|1
+Value:
+
+Key: 在职，我就想找个兼职，稍微多赚点小钱|1
+Value:
+
+Key: 8到11或者2到6|1
+Value:
+
+Key: 不可以，我上长夜班，六个小时休息不过来，四到五个小时还能休息过来|1
+Value:
+
+Key: 耿先生您好，送餐员我暂时不想干|1
+Value:
+
+Key: 不是到北京干嘛|1
+Value:
+
+Key: 那我为啥跑北京去送餐|1
+Value:
+
+Key: 到南京了|1
+Value:
+
+Key: 现在干送餐员还是有点早|1
+Value:
+
+Key: 这工作十年后我也能做，趁年轻去做点有技术要求的|1
+Value:
+
+Key: 没办法，但我还想卷卷，等接受社会的毒打后再考虑别的|1
+Value:
+
+Key: 我上个月其实也进厂了，那个厂子愣是拖了我们一个月多，一分钱没挣到白白浪费了一个月|1
+Value:
+
+Key: 索性先把老本行捡起来吧|1
+Value:
+
+Key: 我这大学念的正好赶上疫情，被封了三年，就业环境直接烂完|1
+Value:
+
+Key: 我知道，我换条赛道卷|1
+Value:
+
+Key: 太tm离谱了，一样的技术疫情前能进疫情后就进不去了|1
+Value:
+
+Key: 实在不行我去搞硬件了|1
+Value:
+
+Key: Linux确实很重要，工资稍微高点的都要求会Linux|1
+Value:
+
+Key: 实在不行我就投靠我们同学去了|1
+Value:
+
+Key: 我明白，最终都是要靠自己的|1
+Value:
+
+Key: 受教了|1
+Value:
+
+Key: 你说的对，现在市场不光是饱和，已经都溢出来了|1
+Value:
+
+Key: 我这老实说还没一份正式的工作|1
+Value:
+
+Key: 团队太坑|1
+Value:
+
+Key: 我去年跑过众包|1
+Value:
+
+Key: 我碰见专送一天跑20几单，一个月撑死也就七八千块钱|1
+Value:
+
+Key: 立水桥这听他们说一单算下来六七块，一天二十几单|1
+Value:
+
+Key: 15岁|1
+Value:
+
+Key: 女的|1
+Value:
+
+Key: 怎么算|1
+Value:
+
+Key: 一男一女嘛|1
+Value:
+
+Key: 15。24|1
+Value:
+
+Key: 女生做什么的活|1
+Value:
+
+Key: 你哪里做什么我都不知道|1
+Value:
+
+Key: 是干嘛的，|1
+Value:
+
+Key: 我要跟他一起啊|1
+Value:
+
+Key: 确实不敢|1
+Value:
+
+Key: 我想跟他做一样|1
+Value:
+
+Key: 对了哥，丰台哪里啊|1
+Value:
+
+Key: 朝阳哪个店|1
+Value:
+
+Key: 拜拜噢|1
+Value:
+
+Key: 我比较喜欢开车|1
+Value:
+
+Key: 电动车|1
+Value:
+
+Key: 16不行吗|1
+Value:
+
+Key: 不是16岁就可以上路了吗？|1
+Value:
+
+Key: 餐饮收银|1
+Value:
+
+Key: 没有，我是做餐饮主管的|1
+Value:
+
+Key: 那你和我说说细致的|1
+Value:
+
+Key: 啥意思，一个两次|1
+Value:
+
+Key: 干点能干的|1
+Value:
+
+Key: 放假开始干|1
+Value:
+
+Key: 有没有那种4000块钱能摆烂的|1
+Value:
+
+Key: 少赚的够旅游就行了|1
+Value:
+
+Key: 9月上大学有家里|1
+Value:
+
+Key: 工资太高怕被骗|1
+Value:
+
+Key: 用不到实习证明|1
+Value:
+
+Key: 高考完干|1
+Value:
+
+Key: 都有什么工作了|1
+Value:
+
+Key: 不是暑假工|1
+Value:
+
+Key: 还需要一个实习证明|1
+Value:
+
+Key: 好吗？|1
+Value:
+
+Key: 白班|1
+Value:
+
+Key: 在乡下，病了。|1
+Value:
+
+Key: 刚刚在上课|1
+Value:
+
